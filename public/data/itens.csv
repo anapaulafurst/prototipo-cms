@@ -1,1 +1,53 @@
-a ser substituido
+id,tipo_key,tipo_label,titulo,Modificado,marca,ano_edicao,disciplina,serie,segmento,volume,entrega,assunto,bncc
+1001,livro,Livro,Livro Matemática 1ª série EM - COC V2,2025-08-10,COC,2025,Matemática,1ª série EM,Ensino Médio,Bimestral,V2,,
+210,capitulo,Capítulo,Capítulo: Funções (Matemática),2025-08-09,COC,2025,Matemática,1ª série EM,Ensino Médio,Bimestral,V2,Funções,EM13MAT102
+1002,livro,Livro,Livro Biologia 2ª série EM - COC V2,2025-08-10,COC,2025,Biologia,2ª série EM,Ensino Médio,Bimestral,V2,,
+220,capitulo,Capítulo,Capítulo: Genética (Biologia),2025-08-09,COC,2025,Biologia,2ª série EM,Ensino Médio,Bimestral,V2,Genética,EM13BIO201
+1003,livro,Livro,Livro História 3ª série EM - COC V2,2025-08-10,COC,2025,História,3ª série EM,Ensino Médio,Bimestral,V2,,
+230,capitulo,Capítulo,Capítulo: Revolução Francesa (História),2025-08-09,COC,2025,História,3ª série EM,Ensino Médio,Bimestral,V2,Revolução Francesa,EM13HIS305
+2001,livro,Livro,Livro Língua Portuguesa 2º ano - SPE V1,2025-08-08,SPE,2025,Língua Portuguesa,2º ano,Fundamental Anos Iniciais,Bimestral,V1,,
+310,capitulo,Capítulo,Capítulo: Leitura de Contos (Língua Portuguesa),2025-08-07,SPE,2025,Língua Portuguesa,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Leitura de Contos,EF15LP01
+2002,livro,Livro,Livro Matemática 3º ano - SPE V1,2025-08-08,SPE,2025,Matemática,3º ano,Fundamental Anos Iniciais,Bimestral,V1,,
+320,capitulo,Capítulo,Capítulo: Números Naturais (Matemática),2025-08-07,SPE,2025,Matemática,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Números Naturais,EF02MA05
+2003,livro,Livro,Livro Ciências 4º ano - SPE V1,2025-08-08,SPE,2025,Ciências,4º ano,Fundamental Anos Iniciais,Bimestral,V1,,
+330,capitulo,Capítulo,Capítulo: Animais Vertebrados (Ciências),2025-08-07,SPE,2025,Ciências,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Animais Vertebrados,EF04CI08
+2004,livro,Livro,Livro História 5º ano - SPE V1,2025-08-08,SPE,2025,História,5º ano,Fundamental Anos Iniciais,Bimestral,V1,,
+340,capitulo,Capítulo,Capítulo: Brasil Colônia (História),2025-08-07,SPE,2025,História,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Brasil Colônia,EF05HI10
+1014,livro,Livro,Livro 1ª série EM - Volume Bimestral (V2),2025-08-10,COC,2025,,1ª série EM,Ensino Médio,Bimestral,V2,,
+1015,capitulo,Capítulo,Matemática - Funções (1ª série EM),2025-08-09,COC,2025,Matemática,1ª série EM,Ensino Médio,Bimestral,V2,Funções,EM13MAT101
+1016,capitulo,Capítulo,Física - Cinemática (1ª série EM),2025-08-09,COC,2025,Física,1ª série EM,Ensino Médio,Bimestral,V2,Cinemática,EM13FIS101
+1017,capitulo,Capítulo,Química - Ligações químicas (1ª série EM),2025-08-09,COC,2025,Química,1ª série EM,Ensino Médio,Bimestral,V2,Ligações químicas,EM13QUI101
+1018,capitulo,Capítulo,Biologia - Genética (1ª série EM),2025-08-09,COC,2025,Biologia,1ª série EM,Ensino Médio,Bimestral,V2,Genética,EM13BIO101
+1019,capitulo,Capítulo,Língua Portuguesa - Interpretação de texto (1ª série EM),2025-08-09,COC,2025,Língua Portuguesa,1ª série EM,Ensino Médio,Bimestral,V2,Interpretação de texto,EM13LP101
+1020,livro,Livro,Livro 2ª série EM - Volume Bimestral (V2),2025-08-10,COC,2025,,2ª série EM,Ensino Médio,Bimestral,V2,,
+1021,capitulo,Capítulo,Matemática - Funções (2ª série EM),2025-08-09,COC,2025,Matemática,2ª série EM,Ensino Médio,Bimestral,V2,Funções,EM13MAT101
+1022,capitulo,Capítulo,Física - Cinemática (2ª série EM),2025-08-09,COC,2025,Física,2ª série EM,Ensino Médio,Bimestral,V2,Cinemática,EM13FIS101
+1023,capitulo,Capítulo,Química - Ligações químicas (2ª série EM),2025-08-09,COC,2025,Química,2ª série EM,Ensino Médio,Bimestral,V2,Ligações químicas,EM13QUI101
+1024,capitulo,Capítulo,Biologia - Genética (2ª série EM),2025-08-09,COC,2025,Biologia,2ª série EM,Ensino Médio,Bimestral,V2,Genética,EM13BIO101
+1025,capitulo,Capítulo,Língua Portuguesa - Interpretação de texto (2ª série EM),2025-08-09,COC,2025,Língua Portuguesa,2ª série EM,Ensino Médio,Bimestral,V2,Interpretação de texto,EM13LP101
+1026,livro,Livro,Livro 3ª série EM - Volume Bimestral (V2),2025-08-10,COC,2025,,3ª série EM,Ensino Médio,Bimestral,V2,,
+1027,capitulo,Capítulo,Matemática - Funções (3ª série EM),2025-08-09,COC,2025,Matemática,3ª série EM,Ensino Médio,Bimestral,V2,Funções,EM13MAT101
+1028,capitulo,Capítulo,Física - Cinemática (3ª série EM),2025-08-09,COC,2025,Física,3ª série EM,Ensino Médio,Bimestral,V2,Cinemática,EM13FIS101
+1029,capitulo,Capítulo,Química - Ligações químicas (3ª série EM),2025-08-09,COC,2025,Química,3ª série EM,Ensino Médio,Bimestral,V2,Ligações químicas,EM13QUI101
+1030,capitulo,Capítulo,Biologia - Genética (3ª série EM),2025-08-09,COC,2025,Biologia,3ª série EM,Ensino Médio,Bimestral,V2,Genética,EM13BIO101
+1031,capitulo,Capítulo,Língua Portuguesa - Interpretação de texto (3ª série EM),2025-08-09,COC,2025,Língua Portuguesa,3ª série EM,Ensino Médio,Bimestral,V2,Interpretação de texto,EM13LP101
+1032,livro,Livro,Livro 2º ano - Volume Bimestral (V1),2025-08-08,SPE,2024,,2º ano,Fundamental Anos Iniciais,Bimestral,V1,,
+1033,capitulo,Capítulo,Matemática - Adição e subtração (2º ano),2025-08-07,SPE,2024,Matemática,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Adição e subtração,EF02MA06
+1034,capitulo,Capítulo,Ciências - Seres vivos (2º ano),2025-08-07,SPE,2024,Ciências,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Seres vivos,EF03CI01
+1035,capitulo,Capítulo,Língua Portuguesa - Ortografia (2º ano),2025-08-07,SPE,2024,Língua Portuguesa,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Ortografia,EF04LP02
+1036,capitulo,Capítulo,História - Cultura indígena (2º ano),2025-08-07,SPE,2024,História,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Cultura indígena,EF05HI03
+1037,livro,Livro,Livro 3º ano - Volume Bimestral (V1),2025-08-08,SPE,2024,,3º ano,Fundamental Anos Iniciais,Bimestral,V1,,
+1038,capitulo,Capítulo,Matemática - Adição e subtração (3º ano),2025-08-07,SPE,2024,Matemática,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Adição e subtração,EF02MA06
+1039,capitulo,Capítulo,Ciências - Seres vivos (3º ano),2025-08-07,SPE,2024,Ciências,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Seres vivos,EF03CI01
+1040,capitulo,Capítulo,Língua Portuguesa - Ortografia (3º ano),2025-08-07,SPE,2024,Língua Portuguesa,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Ortografia,EF04LP02
+1041,capitulo,Capítulo,História - Cultura indígena (3º ano),2025-08-07,SPE,2024,História,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Cultura indígena,EF05HI03
+1042,livro,Livro,Livro 4º ano - Volume Bimestral (V1),2025-08-08,SPE,2024,,4º ano,Fundamental Anos Iniciais,Bimestral,V1,,
+1043,capitulo,Capítulo,Matemática - Adição e subtração (4º ano),2025-08-07,SPE,2024,Matemática,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Adição e subtração,EF02MA06
+1044,capitulo,Capítulo,Ciências - Seres vivos (4º ano),2025-08-07,SPE,2024,Ciências,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Seres vivos,EF03CI01
+1045,capitulo,Capítulo,Língua Portuguesa - Ortografia (4º ano),2025-08-07,SPE,2024,Língua Portuguesa,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Ortografia,EF04LP02
+1046,capitulo,Capítulo,História - Cultura indígena (4º ano),2025-08-07,SPE,2024,História,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Cultura indígena,EF05HI03
+1047,livro,Livro,Livro 5º ano - Volume Bimestral (V1),2025-08-08,SPE,2024,,5º ano,Fundamental Anos Iniciais,Bimestral,V1,,
+1048,capitulo,Capítulo,Matemática - Adição e subtração (5º ano),2025-08-07,SPE,2024,Matemática,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Adição e subtração,EF02MA06
+1049,capitulo,Capítulo,Ciências - Seres vivos (5º ano),2025-08-07,SPE,2024,Ciências,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Seres vivos,EF03CI01
+1050,capitulo,Capítulo,Língua Portuguesa - Ortografia (5º ano),2025-08-07,SPE,2024,Língua Portuguesa,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Ortografia,EF04LP02
+1051,capitulo,Capítulo,História - Cultura indígena (5º ano),2025-08-07,SPE,2024,História,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Cultura indígena,EF05HI03
