@@ -1,1 +1,364 @@
-a ser substituido
+{
+  "version": 6,
+  "content_types": [
+    {
+      "key": "colecao",
+      "label": "Coleção",
+      "group": "Coleção",
+      "kind": "group",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><rect x=\"3\" y=\"4\" width=\"14\" height=\"12\" rx=\"2\"/><rect x=\"7\" y=\"8\" width=\"14\" height=\"12\" rx=\"2\"/></svg>"
+    },
+    {
+      "key": "material",
+      "label": "Material",
+      "group": "Material",
+      "kind": "group",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M5 4h10a2 2 0 0 1 2 2v12l-3-2-3 2-3-2-3 2V6a2 2 0 0 1 2-2z\"/></svg>"
+    },
+    {
+      "key": "documento",
+      "label": "Documento",
+      "group": "Documento",
+      "kind": "group",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M6 3h8l4 4v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z\"/><path d=\"M14 3v4h4\"/></svg>"
+    },
+    {
+      "key": "livro",
+      "label": "Livro",
+      "group": "Material",
+      "kind": "subtype",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M4 5a2 2 0 0 1 2-2h6v14H6a2 2 0 0 0-2 2z\"/><path d=\"M12 3h6a2 2 0 0 1 2 2v14a2 2 0 0 0-2-2h-6\"/></svg>"
+    },
+    {
+      "key": "cartaz",
+      "label": "Cartaz",
+      "group": "Material",
+      "kind": "subtype",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><circle cx=\"12\" cy=\"3.5\" r=\"1.5\"/><path d=\"M6 5h12v14H6z\"/></svg>"
+    },
+    {
+      "key": "agenda",
+      "label": "Agenda",
+      "group": "Material",
+      "kind": "subtype",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M6 4h12v16H6z\"/><path d=\"M8 2v4M16 2v4\"/><path d=\"M6 8h12\"/></svg>"
+    },
+    {
+      "key": "calendario",
+      "label": "Calendário",
+      "group": "Material",
+      "kind": "subtype",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M3 9h18\"/><path d=\"M7 2v4M17 2v4\"/></svg>"
+    },
+    {
+      "key": "capitulo",
+      "label": "Capítulo",
+      "group": "Documento",
+      "kind": "subtype",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M6 3h12v18H6z\"/><path d=\"M9 3v8l3-2 3 2V3\"/></svg>"
+    },
+    {
+      "key": "questoes",
+      "label": "Questões",
+      "group": "Documento",
+      "kind": "subtype",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M10 10a2 2 0 1 1 3 1.7c-.9.6-1 1-1 2\"/><circle cx=\"12\" cy=\"17\" r=\"1\"/></svg>"
+    },
+    {
+      "key": "recurso_digital",
+      "label": "Recurso Digital",
+      "group": "Documento",
+      "kind": "subtype",
+      "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"12\" rx=\"2\"/><path d=\"M8 20h8\"/></svg>"
+    }
+  ],
+  "filter_definitions": [
+    {
+      "name": "tipo_conteudo",
+      "label": "Tipo de conteúdo",
+      "control": "multi",
+      "search": true,
+      "options": [
+        {
+          "key": "colecao",
+          "label": "Coleção",
+          "group": "Coleção",
+          "kind": "group",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><rect x=\"3\" y=\"4\" width=\"14\" height=\"12\" rx=\"2\"/><rect x=\"7\" y=\"8\" width=\"14\" height=\"12\" rx=\"2\"/></svg>"
+        },
+        {
+          "key": "material",
+          "label": "Material",
+          "group": "Material",
+          "kind": "group",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M5 4h10a2 2 0 0 1 2 2v12l-3-2-3 2-3-2-3 2V6a2 2 0 0 1 2-2z\"/></svg>"
+        },
+        {
+          "key": "documento",
+          "label": "Documento",
+          "group": "Documento",
+          "kind": "group",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M6 3h8l4 4v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2z\"/><path d=\"M14 3v4h4\"/></svg>"
+        },
+        {
+          "key": "livro",
+          "label": "Livro",
+          "group": "Material",
+          "kind": "subtype",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M4 5a2 2 0 0 1 2-2h6v14H6a2 2 0 0 0-2 2z\"/><path d=\"M12 3h6a2 2 0 0 1 2 2v14a2 2 0 0 0-2-2h-6\"/></svg>"
+        },
+        {
+          "key": "cartaz",
+          "label": "Cartaz",
+          "group": "Material",
+          "kind": "subtype",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><circle cx=\"12\" cy=\"3.5\" r=\"1.5\"/><path d=\"M6 5h12v14H6z\"/></svg>"
+        },
+        {
+          "key": "agenda",
+          "label": "Agenda",
+          "group": "Material",
+          "kind": "subtype",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M6 4h12v16H6z\"/><path d=\"M8 2v4M16 2v4\"/><path d=\"M6 8h12\"/></svg>"
+        },
+        {
+          "key": "calendario",
+          "label": "Calendário",
+          "group": "Material",
+          "kind": "subtype",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"16\" rx=\"2\"/><path d=\"M3 9h18\"/><path d=\"M7 2v4M17 2v4\"/></svg>"
+        },
+        {
+          "key": "capitulo",
+          "label": "Capítulo",
+          "group": "Documento",
+          "kind": "subtype",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><path d=\"M6 3h12v18H6z\"/><path d=\"M9 3v8l3-2 3 2V3\"/></svg>"
+        },
+        {
+          "key": "questoes",
+          "label": "Questões",
+          "group": "Documento",
+          "kind": "subtype",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><circle cx=\"12\" cy=\"12\" r=\"9\"/><path d=\"M10 10a2 2 0 1 1 3 1.7c-.9.6-1 1-1 2\"/><circle cx=\"12\" cy=\"17\" r=\"1\"/></svg>"
+        },
+        {
+          "key": "recurso_digital",
+          "label": "Recurso Digital",
+          "group": "Documento",
+          "kind": "subtype",
+          "icon_svg": "<svg viewBox=\"0 0 24 24\" width=\"16\" height=\"16\"><rect x=\"3\" y=\"4\" width=\"18\" height=\"12\" rx=\"2\"/><path d=\"M8 20h8\"/></svg>"
+        }
+      ]
+    },
+    {
+      "name": "marca",
+      "label": "Marca",
+      "control": "multi",
+      "search": true,
+      "options": [
+        "SAS",
+        "COC",
+        "Geekie",
+        "SPE",
+        "SAE Digital",
+        "Conquista",
+        "Ways",
+        "Escola da Inteligência",
+        "PES"
+      ]
+    },
+    {
+      "name": "ano_edicao",
+      "label": "Ano de edição",
+      "control": "multi",
+      "search": true,
+      "options": [
+        "2024",
+        "2025",
+        "2026"
+      ]
+    },
+    {
+      "name": "serie",
+      "label": "Série",
+      "control": "multi",
+      "search": true,
+      "options": [
+        "4º ano",
+        "5º ano",
+        "6º ano",
+        "7º ano",
+        "8º ano",
+        "9º ano",
+        "1ª série EM",
+        "2ª série EM",
+        "3ª série EM"
+      ]
+    },
+    {
+      "name": "segmento",
+      "label": "Segmento",
+      "control": "multi",
+      "search": true,
+      "options": [
+        "Educação Infantil",
+        "Fundamental Anos Iniciais",
+        "Fundamental Anos Finais",
+        "Ensino Médio"
+      ]
+    },
+    {
+      "name": "disciplina",
+      "label": "Disciplina",
+      "control": "multi",
+      "search": true,
+      "options": [
+        "Língua Portuguesa",
+        "Matemática",
+        "Geografia",
+        "História",
+        "Ciências",
+        "Língua Inglesa",
+        "Artes",
+        "Física",
+        "Química",
+        "Biologia",
+        "Filosofia",
+        "Sociologia"
+      ]
+    },
+    {
+      "name": "volume",
+      "label": "Volume",
+      "control": "multi",
+      "search": true,
+      "options": [
+        "Bimestral",
+        "Trimestral",
+        "Anual"
+      ]
+    },
+    {
+      "name": "entrega",
+      "label": "Entrega",
+      "control": "multi",
+      "search": true,
+      "options": [
+        "V1",
+        "V2",
+        "V3",
+        "V4"
+      ]
+    },
+    {
+      "name": "assunto",
+      "label": "Assunto",
+      "control": "multi",
+      "search": true,
+      "options": [
+        "Ecologia",
+        "Frações",
+        "Figuras de linguagem",
+        "Colonialismo",
+        "Globalização",
+        "Leis de Newton",
+        "Estequiometria",
+        "Funções",
+        "Genética",
+        "Revolução Francesa",
+        "Leitura de Contos",
+        "Números Naturais",
+        "Animais Vertebrados",
+        "Brasil Colônia",
+        "Cinemática",
+        "Ligações químicas",
+        "Interpretação de texto",
+        "Adição e subtração",
+        "Seres vivos",
+        "Ortografia",
+        "Cultura indígena"
+      ]
+    },
+    {
+      "name": "bncc",
+      "label": "BNCC",
+      "control": "multi",
+      "search": true,
+      "options": [
+        "EF06MA01",
+        "EF06MA02",
+        "EF06MA03",
+        "EF06MA04",
+        "EF06MA05",
+        "EF06MA06",
+        "EF06MA07",
+        "EF06MA08",
+        "EF06MA09",
+        "EF06MA10",
+        "EM13MAT102",
+        "EM13BIO201",
+        "EM13HIS305",
+        "EF15LP01",
+        "EF02MA05",
+        "EF04CI08",
+        "EF05HI10",
+        "EM13MAT101",
+        "EM13MAT202",
+        "EM13FIS101",
+        "EM13QUI101",
+        "EM13BIO101",
+        "EM13LP101",
+        "EF02MA06",
+        "EF03CI01",
+        "EF04LP02",
+        "EF05HI03"
+      ]
+    },
+    {
+      "name": "q",
+      "label": "Buscar no título",
+      "control": "searchtext",
+      "placeholder": "Buscar por título...",
+      "debounce_ms": 300
+    }
+  ],
+  "filters_by_scope": {
+    "all": [
+      "tipo_conteudo",
+      "marca",
+      "ano_edicao",
+      "serie",
+      "segmento",
+      "disciplina",
+      "volume",
+      "entrega",
+      "assunto",
+      "bncc",
+      "q"
+    ]
+  },
+  "behavior": {
+    "facet_logic": {
+      "within_same_filter": "OR",
+      "across_different_filters": "AND"
+    },
+    "text_search_in_filter": true,
+    "url_sync": true,
+    "list_scope": "all",
+    "google_flights_like": true
+  },
+  "ui_order": [
+    "tipo_conteudo",
+    "marca",
+    "ano_edicao",
+    "serie",
+    "segmento",
+    "disciplina",
+    "volume",
+    "entrega",
+    "assunto",
+    "bncc",
+    "q"
+  ]
+}
