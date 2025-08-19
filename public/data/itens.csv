@@ -1,53 +1,1001 @@
-id,tipo_key,tipo_label,titulo,Modificado,marca,ano_edicao,disciplina,serie,segmento,volume,entrega,assunto,bncc
-1001,livro,Livro,Livro Matemática 1ª série EM - COC V2,2025-08-10,COC,2025,Matemática,1ª série EM,Ensino Médio,Bimestral,V2,,
-210,capitulo,Capítulo,Capítulo: Funções (Matemática),2025-08-09,COC,2025,Matemática,1ª série EM,Ensino Médio,Bimestral,V2,Funções,EM13MAT102
-1002,livro,Livro,Livro Biologia 2ª série EM - COC V2,2025-08-10,COC,2025,Biologia,2ª série EM,Ensino Médio,Bimestral,V2,,
-220,capitulo,Capítulo,Capítulo: Genética (Biologia),2025-08-09,COC,2025,Biologia,2ª série EM,Ensino Médio,Bimestral,V2,Genética,EM13BIO201
-1003,livro,Livro,Livro História 3ª série EM - COC V2,2025-08-10,COC,2025,História,3ª série EM,Ensino Médio,Bimestral,V2,,
-230,capitulo,Capítulo,Capítulo: Revolução Francesa (História),2025-08-09,COC,2025,História,3ª série EM,Ensino Médio,Bimestral,V2,Revolução Francesa,EM13HIS305
-2001,livro,Livro,Livro Língua Portuguesa 2º ano - SPE V1,2025-08-08,SPE,2025,Língua Portuguesa,2º ano,Fundamental Anos Iniciais,Bimestral,V1,,
-310,capitulo,Capítulo,Capítulo: Leitura de Contos (Língua Portuguesa),2025-08-07,SPE,2025,Língua Portuguesa,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Leitura de Contos,EF15LP01
-2002,livro,Livro,Livro Matemática 3º ano - SPE V1,2025-08-08,SPE,2025,Matemática,3º ano,Fundamental Anos Iniciais,Bimestral,V1,,
-320,capitulo,Capítulo,Capítulo: Números Naturais (Matemática),2025-08-07,SPE,2025,Matemática,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Números Naturais,EF02MA05
-2003,livro,Livro,Livro Ciências 4º ano - SPE V1,2025-08-08,SPE,2025,Ciências,4º ano,Fundamental Anos Iniciais,Bimestral,V1,,
-330,capitulo,Capítulo,Capítulo: Animais Vertebrados (Ciências),2025-08-07,SPE,2025,Ciências,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Animais Vertebrados,EF04CI08
-2004,livro,Livro,Livro História 5º ano - SPE V1,2025-08-08,SPE,2025,História,5º ano,Fundamental Anos Iniciais,Bimestral,V1,,
-340,capitulo,Capítulo,Capítulo: Brasil Colônia (História),2025-08-07,SPE,2025,História,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Brasil Colônia,EF05HI10
-1014,livro,Livro,Livro 1ª série EM - Volume Bimestral (V2),2025-08-10,COC,2025,,1ª série EM,Ensino Médio,Bimestral,V2,,
-1015,capitulo,Capítulo,Matemática - Funções (1ª série EM),2025-08-09,COC,2025,Matemática,1ª série EM,Ensino Médio,Bimestral,V2,Funções,EM13MAT101
-1016,capitulo,Capítulo,Física - Cinemática (1ª série EM),2025-08-09,COC,2025,Física,1ª série EM,Ensino Médio,Bimestral,V2,Cinemática,EM13FIS101
-1017,capitulo,Capítulo,Química - Ligações químicas (1ª série EM),2025-08-09,COC,2025,Química,1ª série EM,Ensino Médio,Bimestral,V2,Ligações químicas,EM13QUI101
-1018,capitulo,Capítulo,Biologia - Genética (1ª série EM),2025-08-09,COC,2025,Biologia,1ª série EM,Ensino Médio,Bimestral,V2,Genética,EM13BIO101
-1019,capitulo,Capítulo,Língua Portuguesa - Interpretação de texto (1ª série EM),2025-08-09,COC,2025,Língua Portuguesa,1ª série EM,Ensino Médio,Bimestral,V2,Interpretação de texto,EM13LP101
-1020,livro,Livro,Livro 2ª série EM - Volume Bimestral (V2),2025-08-10,COC,2025,,2ª série EM,Ensino Médio,Bimestral,V2,,
-1021,capitulo,Capítulo,Matemática - Funções (2ª série EM),2025-08-09,COC,2025,Matemática,2ª série EM,Ensino Médio,Bimestral,V2,Funções,EM13MAT101
-1022,capitulo,Capítulo,Física - Cinemática (2ª série EM),2025-08-09,COC,2025,Física,2ª série EM,Ensino Médio,Bimestral,V2,Cinemática,EM13FIS101
-1023,capitulo,Capítulo,Química - Ligações químicas (2ª série EM),2025-08-09,COC,2025,Química,2ª série EM,Ensino Médio,Bimestral,V2,Ligações químicas,EM13QUI101
-1024,capitulo,Capítulo,Biologia - Genética (2ª série EM),2025-08-09,COC,2025,Biologia,2ª série EM,Ensino Médio,Bimestral,V2,Genética,EM13BIO101
-1025,capitulo,Capítulo,Língua Portuguesa - Interpretação de texto (2ª série EM),2025-08-09,COC,2025,Língua Portuguesa,2ª série EM,Ensino Médio,Bimestral,V2,Interpretação de texto,EM13LP101
-1026,livro,Livro,Livro 3ª série EM - Volume Bimestral (V2),2025-08-10,COC,2025,,3ª série EM,Ensino Médio,Bimestral,V2,,
-1027,capitulo,Capítulo,Matemática - Funções (3ª série EM),2025-08-09,COC,2025,Matemática,3ª série EM,Ensino Médio,Bimestral,V2,Funções,EM13MAT101
-1028,capitulo,Capítulo,Física - Cinemática (3ª série EM),2025-08-09,COC,2025,Física,3ª série EM,Ensino Médio,Bimestral,V2,Cinemática,EM13FIS101
-1029,capitulo,Capítulo,Química - Ligações químicas (3ª série EM),2025-08-09,COC,2025,Química,3ª série EM,Ensino Médio,Bimestral,V2,Ligações químicas,EM13QUI101
-1030,capitulo,Capítulo,Biologia - Genética (3ª série EM),2025-08-09,COC,2025,Biologia,3ª série EM,Ensino Médio,Bimestral,V2,Genética,EM13BIO101
-1031,capitulo,Capítulo,Língua Portuguesa - Interpretação de texto (3ª série EM),2025-08-09,COC,2025,Língua Portuguesa,3ª série EM,Ensino Médio,Bimestral,V2,Interpretação de texto,EM13LP101
-1032,livro,Livro,Livro 2º ano - Volume Bimestral (V1),2025-08-08,SPE,2024,,2º ano,Fundamental Anos Iniciais,Bimestral,V1,,
-1033,capitulo,Capítulo,Matemática - Adição e subtração (2º ano),2025-08-07,SPE,2024,Matemática,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Adição e subtração,EF02MA06
-1034,capitulo,Capítulo,Ciências - Seres vivos (2º ano),2025-08-07,SPE,2024,Ciências,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Seres vivos,EF03CI01
-1035,capitulo,Capítulo,Língua Portuguesa - Ortografia (2º ano),2025-08-07,SPE,2024,Língua Portuguesa,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Ortografia,EF04LP02
-1036,capitulo,Capítulo,História - Cultura indígena (2º ano),2025-08-07,SPE,2024,História,2º ano,Fundamental Anos Iniciais,Bimestral,V1,Cultura indígena,EF05HI03
-1037,livro,Livro,Livro 3º ano - Volume Bimestral (V1),2025-08-08,SPE,2024,,3º ano,Fundamental Anos Iniciais,Bimestral,V1,,
-1038,capitulo,Capítulo,Matemática - Adição e subtração (3º ano),2025-08-07,SPE,2024,Matemática,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Adição e subtração,EF02MA06
-1039,capitulo,Capítulo,Ciências - Seres vivos (3º ano),2025-08-07,SPE,2024,Ciências,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Seres vivos,EF03CI01
-1040,capitulo,Capítulo,Língua Portuguesa - Ortografia (3º ano),2025-08-07,SPE,2024,Língua Portuguesa,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Ortografia,EF04LP02
-1041,capitulo,Capítulo,História - Cultura indígena (3º ano),2025-08-07,SPE,2024,História,3º ano,Fundamental Anos Iniciais,Bimestral,V1,Cultura indígena,EF05HI03
-1042,livro,Livro,Livro 4º ano - Volume Bimestral (V1),2025-08-08,SPE,2024,,4º ano,Fundamental Anos Iniciais,Bimestral,V1,,
-1043,capitulo,Capítulo,Matemática - Adição e subtração (4º ano),2025-08-07,SPE,2024,Matemática,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Adição e subtração,EF02MA06
-1044,capitulo,Capítulo,Ciências - Seres vivos (4º ano),2025-08-07,SPE,2024,Ciências,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Seres vivos,EF03CI01
-1045,capitulo,Capítulo,Língua Portuguesa - Ortografia (4º ano),2025-08-07,SPE,2024,Língua Portuguesa,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Ortografia,EF04LP02
-1046,capitulo,Capítulo,História - Cultura indígena (4º ano),2025-08-07,SPE,2024,História,4º ano,Fundamental Anos Iniciais,Bimestral,V1,Cultura indígena,EF05HI03
-1047,livro,Livro,Livro 5º ano - Volume Bimestral (V1),2025-08-08,SPE,2024,,5º ano,Fundamental Anos Iniciais,Bimestral,V1,,
-1048,capitulo,Capítulo,Matemática - Adição e subtração (5º ano),2025-08-07,SPE,2024,Matemática,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Adição e subtração,EF02MA06
-1049,capitulo,Capítulo,Ciências - Seres vivos (5º ano),2025-08-07,SPE,2024,Ciências,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Seres vivos,EF03CI01
-1050,capitulo,Capítulo,Língua Portuguesa - Ortografia (5º ano),2025-08-07,SPE,2024,Língua Portuguesa,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Ortografia,EF04LP02
-1051,capitulo,Capítulo,História - Cultura indígena (5º ano),2025-08-07,SPE,2024,História,5º ano,Fundamental Anos Iniciais,Bimestral,V1,Cultura indígena,EF05HI03
+id,titulo,tipo_conteudo,marca,ano,serie,disciplina,assunto,bncc,volume,entrega,modificado
+1,Coleção SAS 2026 – G2,Coleção,SAS,2026,G2,,,,,,2025-08-29
+2,Livro G2 – SAS – V3,Material,SAS,2026,G2,,,,Bimestral,V3,2025-08-08
+3,Língua Inglesa – Capítulo 1 (G2),Capítulo,SAS,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG603,Bimestral,V3,2025-07-21
+4,Língua Inglesa – Capítulo 2 (G2),Capítulo,SAS,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG603,Bimestral,V3,2025-08-21
+5,Língua Inglesa – Capítulo 3 (G2),Capítulo,SAS,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG603,Bimestral,V3,2025-08-06
+6,Língua Inglesa – Capítulo 4 (G2),Capítulo,SAS,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG603,Bimestral,V3,2025-08-21
+7,Língua Inglesa – Capítulo 5 (G2),Capítulo,SAS,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG603,Bimestral,V3,2025-07-21
+8,Língua Inglesa – Capítulo 6 (G2),Capítulo,SAS,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG603,Bimestral,V3,2025-07-13
+9,Questões Língua Inglesa – Q1 (G2),Questão,SAS,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG603,Bimestral,V3,2025-07-11
+10,Questões Língua Inglesa – Q2 (G2),Questão,SAS,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG603,Bimestral,V3,2025-07-10
+11,Questões Língua Inglesa – Q3 (G2),Questão,SAS,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG603,Bimestral,V3,2025-08-02
+12,Matemática – Capítulo 1 (G2),Capítulo,SAS,2026,G2,Matemática,Números Inteiros,EM13MAT201,Bimestral,V3,2025-08-21
+13,Matemática – Capítulo 2 (G2),Capítulo,SAS,2026,G2,Matemática,Matrizes e Determinantes,EM13MAT201,Bimestral,V3,2025-07-15
+14,Matemática – Capítulo 3 (G2),Capítulo,SAS,2026,G2,Matemática,Números Naturais,EM13MAT201,Bimestral,V3,2025-08-01
+15,Matemática – Capítulo 4 (G2),Capítulo,SAS,2026,G2,Matemática,Geometria Plana,EM13MAT201,Bimestral,V3,2025-08-10
+16,Matemática – Capítulo 5 (G2),Capítulo,SAS,2026,G2,Matemática,Análise Combinatória,EM13MAT201,Bimestral,V3,2025-07-04
+17,Matemática – Capítulo 6 (G2),Capítulo,SAS,2026,G2,Matemática,Áreas de superfícies tridimensionais,EM13MAT201,Bimestral,V3,2025-07-07
+18,Questões Matemática – Q1 (G2),Questão,SAS,2026,G2,Matemática,Álgebra - Trigonometria,EM13MAT201,Bimestral,V3,2025-08-20
+19,Questões Matemática – Q2 (G2),Questão,SAS,2026,G2,Matemática,Cônicas,EM13MAT201,Bimestral,V3,2025-07-31
+20,Questões Matemática – Q3 (G2),Questão,SAS,2026,G2,Matemática,Álgebra - Trigonometria,EM13MAT201,Bimestral,V3,2025-07-09
+21,Coleção COC 2025 – G3,Coleção,COC,2025,G3,,,,,,2025-08-18
+22,Livro G3 – COC – V1,Material,COC,2025,G3,,,,Bimestral,V1,2025-08-26
+23,Filosofia – Capítulo 1 (G3),Capítulo,COC,2025,G3,Filosofia,Filosofia contemporânea,EM13CHS504,Bimestral,V1,2025-08-01
+24,Filosofia – Capítulo 2 (G3),Capítulo,COC,2025,G3,Filosofia,Comunicação de massa,EM13CHS504,Bimestral,V1,2025-07-23
+25,Filosofia – Capítulo 3 (G3),Capítulo,COC,2025,G3,Filosofia,Filosofia medieval,EM13CHS504,Bimestral,V1,2025-08-06
+26,Filosofia – Capítulo 4 (G3),Capítulo,COC,2025,G3,Filosofia,Comunicação de massa,EM13CHS504,Bimestral,V1,2025-07-02
+27,Filosofia – Capítulo 5 (G3),Capítulo,COC,2025,G3,Filosofia,Outros Tópicos Relacionados à Filosofia - Liberdade,EM13CHS504,Bimestral,V1,2025-08-10
+28,Filosofia – Capítulo 6 (G3),Capítulo,COC,2025,G3,Filosofia,Filosofia - Outros,EM13CHS504,Bimestral,V1,2025-07-29
+29,Questões Filosofia – Q1 (G3),Questão,COC,2025,G3,Filosofia,Outros Tópicos Relacionados à Filosofia - Intolerância,EM13CHS504,Bimestral,V1,2025-08-28
+30,Questões Filosofia – Q2 (G3),Questão,COC,2025,G3,Filosofia,Filosofia medieval,EM13CHS504,Bimestral,V1,2025-07-05
+31,Questões Filosofia – Q3 (G3),Questão,COC,2025,G3,Filosofia,Filosofia antiga,EM13CHS504,Bimestral,V1,2025-08-30
+32,Ciências – Capítulo 1 (G3),Capítulo,COC,2025,G3,Ciências,Ciências - Outros,EF08CI01,Bimestral,V1,2025-08-19
+33,Ciências – Capítulo 2 (G3),Capítulo,COC,2025,G3,Ciências,Ciências - Outros,EF08CI01,Bimestral,V1,2025-08-14
+34,Ciências – Capítulo 3 (G3),Capítulo,COC,2025,G3,Ciências,Ciências - Outros,EF08CI01,Bimestral,V1,2025-07-19
+35,Ciências – Capítulo 4 (G3),Capítulo,COC,2025,G3,Ciências,Ciências - Outros,EF08CI01,Bimestral,V1,2025-07-05
+36,Ciências – Capítulo 5 (G3),Capítulo,COC,2025,G3,Ciências,Ciências - Outros,EF08CI01,Bimestral,V1,2025-07-17
+37,Ciências – Capítulo 6 (G3),Capítulo,COC,2025,G3,Ciências,Ciências - Outros,EF08CI01,Bimestral,V1,2025-08-22
+38,Questões Ciências – Q1 (G3),Questão,COC,2025,G3,Ciências,Ciências - Outros,EF08CI01,Bimestral,V1,2025-08-20
+39,Questões Ciências – Q2 (G3),Questão,COC,2025,G3,Ciências,Ciências - Outros,EF08CI01,Bimestral,V1,2025-08-23
+40,Questões Ciências – Q3 (G3),Questão,COC,2025,G3,Ciências,Ciências - Outros,EF08CI01,Bimestral,V1,2025-07-16
+41,Coleção SPE 2025 – G4,Coleção,SPE,2025,G4,,,,,,2025-07-17
+42,Livro G4 – SPE – V3,Material,SPE,2025,G4,,,,Bimestral,V3,2025-07-29
+43,Matemática – Capítulo 1 (G4),Capítulo,SPE,2025,G4,Matemática,Proporcionalidade Direta e Indireta,EM13MAT403,Bimestral,V3,2025-07-29
+44,Matemática – Capítulo 2 (G4),Capítulo,SPE,2025,G4,Matemática,Funções,EM13MAT403,Bimestral,V3,2025-07-08
+45,Matemática – Capítulo 3 (G4),Capítulo,SPE,2025,G4,Matemática,Números Complexos,EM13MAT403,Bimestral,V3,2025-08-22
+46,Matemática – Capítulo 4 (G4),Capítulo,SPE,2025,G4,Matemática,Matemática - Outros,EM13MAT403,Bimestral,V3,2025-08-30
+47,Matemática – Capítulo 5 (G4),Capítulo,SPE,2025,G4,Matemática,Cônicas,EM13MAT403,Bimestral,V3,2025-08-07
+48,Matemática – Capítulo 6 (G4),Capítulo,SPE,2025,G4,Matemática,Expressões Algébricas,EM13MAT403,Bimestral,V3,2025-07-26
+49,Questões Matemática – Q1 (G4),Questão,SPE,2025,G4,Matemática,Áreas de figuras planas,EM13MAT403,Bimestral,V3,2025-08-30
+50,Questões Matemática – Q2 (G4),Questão,SPE,2025,G4,Matemática,Geometria Plana,EM13MAT403,Bimestral,V3,2025-07-28
+51,Questões Matemática – Q3 (G4),Questão,SPE,2025,G4,Matemática,Geometria Plana,EM13MAT403,Bimestral,V3,2025-08-21
+52,Geografia – Capítulo 1 (G4),Capítulo,SPE,2025,G4,Geografia,Elementos da Paisagem e Suas Interações,EM13CHS403,Bimestral,V3,2025-08-04
+53,Geografia – Capítulo 2 (G4),Capítulo,SPE,2025,G4,Geografia,Visualização de Dados Espaciais,EM13CHS403,Bimestral,V3,2025-08-29
+54,Geografia – Capítulo 3 (G4),Capítulo,SPE,2025,G4,Geografia,Divisões Políticas,EM13CHS403,Bimestral,V3,2025-08-08
+55,Geografia – Capítulo 4 (G4),Capítulo,SPE,2025,G4,Geografia,Impactos Sociais das Mudanças Ambientais,EM13CHS403,Bimestral,V3,2025-08-29
+56,Geografia – Capítulo 5 (G4),Capítulo,SPE,2025,G4,Geografia,Economia Circular,EM13CHS403,Bimestral,V3,2025-07-15
+57,Geografia – Capítulo 6 (G4),Capítulo,SPE,2025,G4,Geografia,Geologia,EM13CHS403,Bimestral,V3,2025-08-16
+58,Questões Geografia – Q1 (G4),Questão,SPE,2025,G4,Geografia,Desenvolvimento Econômico,EM13CHS403,Bimestral,V3,2025-07-03
+59,Questões Geografia – Q2 (G4),Questão,SPE,2025,G4,Geografia,Gastronomia e Culinária,EM13CHS403,Bimestral,V3,2025-08-03
+60,Questões Geografia – Q3 (G4),Questão,SPE,2025,G4,Geografia,Problemas ambientais,EM13CHS403,Bimestral,V3,2025-07-01
+61,Coleção SAS 2025 – G5,Coleção,SAS,2025,G5,,,,,,2025-07-20
+62,Livro G5 – SAS – V4,Material,SAS,2025,G5,,,,Bimestral,V4,2025-08-08
+63,História – Capítulo 1 (G5),Capítulo,SAS,2025,G5,História,Civilizações da Antiguidade Oriental,EF08HI08,Bimestral,V4,2025-07-18
+64,História – Capítulo 2 (G5),Capítulo,SAS,2025,G5,História,Unificações e movimentos nacionalistas,EF08HI08,Bimestral,V4,2025-08-19
+65,História – Capítulo 3 (G5),Capítulo,SAS,2025,G5,História,Descolonização da África,EF08HI08,Bimestral,V4,2025-08-14
+66,História – Capítulo 4 (G5),Capítulo,SAS,2025,G5,História,Globalização e seus desafios,EF08HI08,Bimestral,V4,2025-07-26
+67,História – Capítulo 5 (G5),Capítulo,SAS,2025,G5,História,Transição do Feudalismo para o Capitalismo,EF08HI08,Bimestral,V4,2025-08-13
+68,História – Capítulo 6 (G5),Capítulo,SAS,2025,G5,História,História da África - Questões Contemporâneas,EF08HI08,Bimestral,V4,2025-08-24
+69,Questões História – Q1 (G5),Questão,SAS,2025,G5,História,Evolução dos Sistemas Internacionais e Instituições Globais,EF08HI08,Bimestral,V4,2025-08-07
+70,Questões História – Q2 (G5),Questão,SAS,2025,G5,História,República Nova,EF08HI08,Bimestral,V4,2025-07-27
+71,Questões História – Q3 (G5),Questão,SAS,2025,G5,História,Feudalismo e Sociedade Feudal,EF08HI08,Bimestral,V4,2025-07-10
+72,Matemática – Capítulo 1 (G5),Capítulo,SAS,2025,G5,Matemática,Logaritmo,EF08MA18,Bimestral,V4,2025-07-15
+73,Matemática – Capítulo 2 (G5),Capítulo,SAS,2025,G5,Matemática,Vistas e projeções,EF08MA18,Bimestral,V4,2025-08-11
+74,Matemática – Capítulo 3 (G5),Capítulo,SAS,2025,G5,Matemática,Números Complexos,EF08MA18,Bimestral,V4,2025-08-10
+75,Matemática – Capítulo 4 (G5),Capítulo,SAS,2025,G5,Matemática,Áreas de figuras planas,EF08MA18,Bimestral,V4,2025-08-08
+76,Matemática – Capítulo 5 (G5),Capítulo,SAS,2025,G5,Matemática,Números Reais,EF08MA18,Bimestral,V4,2025-08-27
+77,Matemática – Capítulo 6 (G5),Capítulo,SAS,2025,G5,Matemática,Expressões Algébricas,EF08MA18,Bimestral,V4,2025-08-28
+78,Questões Matemática – Q1 (G5),Questão,SAS,2025,G5,Matemática,Matrizes e Determinantes,EF08MA18,Bimestral,V4,2025-08-07
+79,Questões Matemática – Q2 (G5),Questão,SAS,2025,G5,Matemática,Lógica,EF08MA18,Bimestral,V4,2025-07-11
+80,Questões Matemática – Q3 (G5),Questão,SAS,2025,G5,Matemática,Números Irracionais,EF08MA18,Bimestral,V4,2025-08-22
+81,Coleção COC 2026 – 1º ano,Coleção,COC,2026,1º ano,,,,,,2025-07-17
+82,Livro 1º ano – COC – V3,Material,COC,2026,1º ano,,,,Bimestral,V3,2025-08-10
+83,Filosofia – Capítulo 1 (1º ano),Capítulo,COC,2026,1º ano,Filosofia,Outros Tópicos Relacionados à Filosofia - Cultura e sociedade,EM13CHS603,Bimestral,V3,2025-07-23
+84,Filosofia – Capítulo 2 (1º ano),Capítulo,COC,2026,1º ano,Filosofia,Filosofia da linguagem,EM13CHS603,Bimestral,V3,2025-08-13
+85,Filosofia – Capítulo 3 (1º ano),Capítulo,COC,2026,1º ano,Filosofia,Kant,EM13CHS603,Bimestral,V3,2025-07-14
+86,Filosofia – Capítulo 4 (1º ano),Capítulo,COC,2026,1º ano,Filosofia,Filosofia contemporânea,EM13CHS603,Bimestral,V3,2025-08-28
+87,Filosofia – Capítulo 5 (1º ano),Capítulo,COC,2026,1º ano,Filosofia,Outros Tópicos Relacionados à Filosofia - Cultura e arte,EM13CHS603,Bimestral,V3,2025-08-02
+88,Filosofia – Capítulo 6 (1º ano),Capítulo,COC,2026,1º ano,Filosofia,Outros Tópicos Relacionados à Filosofia - Cultura e sociedade,EM13CHS603,Bimestral,V3,2025-07-16
+89,Questões Filosofia – Q1 (1º ano),Questão,COC,2026,1º ano,Filosofia,Outros Tópicos Relacionados à Filosofia - Cultura e arte,EM13CHS603,Bimestral,V3,2025-07-08
+90,Questões Filosofia – Q2 (1º ano),Questão,COC,2026,1º ano,Filosofia,Empirismo,EM13CHS603,Bimestral,V3,2025-07-11
+91,Questões Filosofia – Q3 (1º ano),Questão,COC,2026,1º ano,Filosofia,Filosofia das ciências,EM13CHS603,Bimestral,V3,2025-07-24
+92,Ciências – Capítulo 1 (1º ano),Capítulo,COC,2026,1º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V3,2025-08-14
+93,Ciências – Capítulo 2 (1º ano),Capítulo,COC,2026,1º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V3,2025-08-09
+94,Ciências – Capítulo 3 (1º ano),Capítulo,COC,2026,1º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V3,2025-07-03
+95,Ciências – Capítulo 4 (1º ano),Capítulo,COC,2026,1º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V3,2025-07-23
+96,Ciências – Capítulo 5 (1º ano),Capítulo,COC,2026,1º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V3,2025-08-21
+97,Ciências – Capítulo 6 (1º ano),Capítulo,COC,2026,1º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V3,2025-08-07
+98,Questões Ciências – Q1 (1º ano),Questão,COC,2026,1º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V3,2025-07-01
+99,Questões Ciências – Q2 (1º ano),Questão,COC,2026,1º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V3,2025-07-10
+100,Questões Ciências – Q3 (1º ano),Questão,COC,2026,1º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V3,2025-07-17
+101,Coleção SPE 2025 – 2º ano,Coleção,SPE,2025,2º ano,,,,,,2025-07-08
+102,Livro 2º ano – SPE – V4,Material,SPE,2025,2º ano,,,,Bimestral,V4,2025-08-25
+103,Química – Capítulo 1 (2º ano),Capítulo,SPE,2025,2º ano,Química,Desastres Ambientais,EM13CNT303,Bimestral,V4,2025-07-05
+104,Química – Capítulo 2 (2º ano),Capítulo,SPE,2025,2º ano,Química,Tecnologias Ambientais,EM13CNT303,Bimestral,V4,2025-08-14
+105,Química – Capítulo 3 (2º ano),Capítulo,SPE,2025,2º ano,Química,Séries orgânicas,EM13CNT303,Bimestral,V4,2025-07-14
+106,Química – Capítulo 4 (2º ano),Capítulo,SPE,2025,2º ano,Química,Aplicações da Estequiometria,EM13CNT303,Bimestral,V4,2025-07-20
+107,Química – Capítulo 5 (2º ano),Capítulo,SPE,2025,2º ano,Química,Estrutura espacial das moléculas,EM13CNT303,Bimestral,V4,2025-07-03
+108,Química – Capítulo 6 (2º ano),Capítulo,SPE,2025,2º ano,Química,Deslocamento do equilíbrio,EM13CNT303,Bimestral,V4,2025-07-28
+109,Questões Química – Q1 (2º ano),Questão,SPE,2025,2º ano,Química,Aplicações da Estequiometria,EM13CNT303,Bimestral,V4,2025-08-15
+110,Questões Química – Q2 (2º ano),Questão,SPE,2025,2º ano,Química,Reações dos alcinos,EM13CNT303,Bimestral,V4,2025-08-06
+111,Questões Química – Q3 (2º ano),Questão,SPE,2025,2º ano,Química,Formas geométricas das moléculas orgânicas,EM13CNT303,Bimestral,V4,2025-08-11
+112,Geografia – Capítulo 1 (2º ano),Capítulo,SPE,2025,2º ano,Geografia,Geografia da Saúde,EF07GE05,Bimestral,V4,2025-07-09
+113,Geografia – Capítulo 2 (2º ano),Capítulo,SPE,2025,2º ano,Geografia,Climatologia,EF07GE05,Bimestral,V4,2025-07-08
+114,Geografia – Capítulo 3 (2º ano),Capítulo,SPE,2025,2º ano,Geografia,Geoprocessamento,EF07GE05,Bimestral,V4,2025-07-30
+115,Geografia – Capítulo 4 (2º ano),Capítulo,SPE,2025,2º ano,Geografia,Tipos de Mapas,EF07GE05,Bimestral,V4,2025-08-24
+116,Geografia – Capítulo 5 (2º ano),Capítulo,SPE,2025,2º ano,Geografia,Fontes de energia,EF07GE05,Bimestral,V4,2025-07-20
+117,Geografia – Capítulo 6 (2º ano),Capítulo,SPE,2025,2º ano,Geografia,Impactos da interação humana no meio ambiente,EF07GE05,Bimestral,V4,2025-07-05
+118,Questões Geografia – Q1 (2º ano),Questão,SPE,2025,2º ano,Geografia,Sustentabilidade e conservação da biodiversidade,EF07GE05,Bimestral,V4,2025-07-14
+119,Questões Geografia – Q2 (2º ano),Questão,SPE,2025,2º ano,Geografia,Sustentabilidade e conservação da biodiversidade,EF07GE05,Bimestral,V4,2025-07-25
+120,Questões Geografia – Q3 (2º ano),Questão,SPE,2025,2º ano,Geografia,Economia Circular,EF07GE05,Bimestral,V4,2025-07-02
+121,Coleção SAS 2025 – 3º ano,Coleção,SAS,2025,3º ano,,,,,,2025-08-19
+122,Livro 3º ano – SAS – V2,Material,SAS,2025,3º ano,,,,Bimestral,V2,2025-08-03
+123,Língua Inglesa – Capítulo 1 (3º ano),Capítulo,SAS,2025,3º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V2,2025-08-16
+124,Língua Inglesa – Capítulo 2 (3º ano),Capítulo,SAS,2025,3º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V2,2025-08-23
+125,Língua Inglesa – Capítulo 3 (3º ano),Capítulo,SAS,2025,3º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V2,2025-08-08
+126,Língua Inglesa – Capítulo 4 (3º ano),Capítulo,SAS,2025,3º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V2,2025-08-07
+127,Língua Inglesa – Capítulo 5 (3º ano),Capítulo,SAS,2025,3º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V2,2025-07-27
+128,Língua Inglesa – Capítulo 6 (3º ano),Capítulo,SAS,2025,3º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V2,2025-07-12
+129,Questões Língua Inglesa – Q1 (3º ano),Questão,SAS,2025,3º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V2,2025-08-05
+130,Questões Língua Inglesa – Q2 (3º ano),Questão,SAS,2025,3º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V2,2025-08-16
+131,Questões Língua Inglesa – Q3 (3º ano),Questão,SAS,2025,3º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V2,2025-08-07
+132,Sociologia – Capítulo 1 (3º ano),Capítulo,SAS,2025,3º ano,Sociologia,Outros Tópicos Relacionados à Sociologia - Ciência,EM13CHS102,Bimestral,V2,2025-08-29
+133,Sociologia – Capítulo 2 (3º ano),Capítulo,SAS,2025,3º ano,Sociologia,Outros Tópicos Relacionados à Sociologia - Cultura e sociedade,EM13CHS102,Bimestral,V2,2025-08-09
+134,Sociologia – Capítulo 3 (3º ano),Capítulo,SAS,2025,3º ano,Sociologia,Relações de poder,EM13CHS102,Bimestral,V2,2025-08-11
+135,Sociologia – Capítulo 4 (3º ano),Capítulo,SAS,2025,3º ano,Sociologia,Meio ambiente,EM13CHS102,Bimestral,V2,2025-07-31
+136,Sociologia – Capítulo 5 (3º ano),Capítulo,SAS,2025,3º ano,Sociologia,Urbanidade e ruralidade,EM13CHS102,Bimestral,V2,2025-07-27
+137,Sociologia – Capítulo 6 (3º ano),Capítulo,SAS,2025,3º ano,Sociologia,Indivíduo e sociedade,EM13CHS102,Bimestral,V2,2025-08-20
+138,Questões Sociologia – Q1 (3º ano),Questão,SAS,2025,3º ano,Sociologia,Conflitos urbanos,EM13CHS102,Bimestral,V2,2025-07-27
+139,Questões Sociologia – Q2 (3º ano),Questão,SAS,2025,3º ano,Sociologia,Perspectivas Contemporâneas sobre a Modernidade e a Sociedade,EM13CHS102,Bimestral,V2,2025-08-16
+140,Questões Sociologia – Q3 (3º ano),Questão,SAS,2025,3º ano,Sociologia,Cultura e ideologia - Patrimônio cultural,EM13CHS102,Bimestral,V2,2025-08-01
+141,Coleção COC 2025 – 4º ano,Coleção,COC,2025,4º ano,,,,,,2025-07-10
+142,Livro 4º ano – COC – V1,Material,COC,2025,4º ano,,,,Bimestral,V1,2025-07-22
+143,Língua Inglesa – Capítulo 1 (4º ano),Capítulo,COC,2025,4º ano,Língua Inglesa,Assunto Geral,EM13LGG702,Bimestral,V1,2025-08-18
+144,Língua Inglesa – Capítulo 2 (4º ano),Capítulo,COC,2025,4º ano,Língua Inglesa,Assunto Geral,EM13LGG702,Bimestral,V1,2025-08-21
+145,Língua Inglesa – Capítulo 3 (4º ano),Capítulo,COC,2025,4º ano,Língua Inglesa,Assunto Geral,EM13LGG702,Bimestral,V1,2025-07-22
+146,Língua Inglesa – Capítulo 4 (4º ano),Capítulo,COC,2025,4º ano,Língua Inglesa,Assunto Geral,EM13LGG702,Bimestral,V1,2025-08-24
+147,Língua Inglesa – Capítulo 5 (4º ano),Capítulo,COC,2025,4º ano,Língua Inglesa,Assunto Geral,EM13LGG702,Bimestral,V1,2025-07-06
+148,Língua Inglesa – Capítulo 6 (4º ano),Capítulo,COC,2025,4º ano,Língua Inglesa,Assunto Geral,EM13LGG702,Bimestral,V1,2025-08-02
+149,Questões Língua Inglesa – Q1 (4º ano),Questão,COC,2025,4º ano,Língua Inglesa,Assunto Geral,EM13LGG702,Bimestral,V1,2025-07-24
+150,Questões Língua Inglesa – Q2 (4º ano),Questão,COC,2025,4º ano,Língua Inglesa,Assunto Geral,EM13LGG702,Bimestral,V1,2025-07-31
+151,Questões Língua Inglesa – Q3 (4º ano),Questão,COC,2025,4º ano,Língua Inglesa,Assunto Geral,EM13LGG702,Bimestral,V1,2025-07-21
+152,Geografia – Capítulo 1 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Características regionais,EM13CHS202,Bimestral,V1,2025-07-23
+153,Geografia – Capítulo 2 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Tipos de Mapas,EM13CHS202,Bimestral,V1,2025-07-02
+154,Geografia – Capítulo 3 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Geografia Social - Intolerância,EM13CHS202,Bimestral,V1,2025-08-04
+155,Geografia – Capítulo 4 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Sustentabilidade e conservação da biodiversidade,EM13CHS202,Bimestral,V1,2025-08-15
+156,Geografia – Capítulo 5 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Escala Geográfica e Suas Aplicações,EM13CHS202,Bimestral,V1,2025-07-18
+157,Geografia – Capítulo 6 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Economia Verde,EM13CHS202,Bimestral,V1,2025-07-22
+158,Questões Geografia – Q1 (4º ano),Questão,COC,2025,4º ano,Geografia,Ética e Responsabilidade na Cartografia,EM13CHS202,Bimestral,V1,2025-07-22
+159,Questões Geografia – Q2 (4º ano),Questão,COC,2025,4º ano,Geografia,Políticas de Bem-Estar Social,EM13CHS202,Bimestral,V1,2025-07-07
+160,Questões Geografia – Q3 (4º ano),Questão,COC,2025,4º ano,Geografia,Geografia Glacial,EM13CHS202,Bimestral,V1,2025-08-07
+161,Coleção SPE 2026 – 5º ano,Coleção,SPE,2026,5º ano,,,,,,2025-08-18
+162,Livro 5º ano – SPE – V2,Material,SPE,2026,5º ano,,,,Bimestral,V2,2025-08-18
+163,História – Capítulo 1 (5º ano),Capítulo,SPE,2026,5º ano,História,Fim da Guerra Fria,EF06HI12,Bimestral,V2,2025-08-28
+164,História – Capítulo 2 (5º ano),Capítulo,SPE,2026,5º ano,História,Evolução dos Sistemas Internacionais e Instituições Globais,EF06HI12,Bimestral,V2,2025-07-25
+165,História – Capítulo 3 (5º ano),Capítulo,SPE,2026,5º ano,História,Colonização europeia,EF06HI12,Bimestral,V2,2025-07-22
+166,História – Capítulo 4 (5º ano),Capítulo,SPE,2026,5º ano,História,Brasil Pré-Colonial,EF06HI12,Bimestral,V2,2025-08-06
+167,História – Capítulo 5 (5º ano),Capítulo,SPE,2026,5º ano,História,Idade Contemporânea - Migrações,EF06HI12,Bimestral,V2,2025-07-19
+168,História – Capítulo 6 (5º ano),Capítulo,SPE,2026,5º ano,História,História e memória,EF06HI12,Bimestral,V2,2025-07-03
+169,Questões História – Q1 (5º ano),Questão,SPE,2026,5º ano,História,Relações sociais e culturais,EF06HI12,Bimestral,V2,2025-07-09
+170,Questões História – Q2 (5º ano),Questão,SPE,2026,5º ano,História,Cultura e Sociedade na Antiguidade,EF06HI12,Bimestral,V2,2025-07-14
+171,Questões História – Q3 (5º ano),Questão,SPE,2026,5º ano,História,História da África - Questões Contemporâneas,EF06HI12,Bimestral,V2,2025-08-26
+172,Língua Inglesa – Capítulo 1 (5º ano),Capítulo,SPE,2026,5º ano,Língua Inglesa,Assunto Geral,EF06LI01,Bimestral,V2,2025-08-13
+173,Língua Inglesa – Capítulo 2 (5º ano),Capítulo,SPE,2026,5º ano,Língua Inglesa,Assunto Geral,EF06LI01,Bimestral,V2,2025-08-10
+174,Língua Inglesa – Capítulo 3 (5º ano),Capítulo,SPE,2026,5º ano,Língua Inglesa,Assunto Geral,EF06LI01,Bimestral,V2,2025-08-22
+175,Língua Inglesa – Capítulo 4 (5º ano),Capítulo,SPE,2026,5º ano,Língua Inglesa,Assunto Geral,EF06LI01,Bimestral,V2,2025-07-13
+176,Língua Inglesa – Capítulo 5 (5º ano),Capítulo,SPE,2026,5º ano,Língua Inglesa,Assunto Geral,EF06LI01,Bimestral,V2,2025-07-09
+177,Língua Inglesa – Capítulo 6 (5º ano),Capítulo,SPE,2026,5º ano,Língua Inglesa,Assunto Geral,EF06LI01,Bimestral,V2,2025-07-29
+178,Questões Língua Inglesa – Q1 (5º ano),Questão,SPE,2026,5º ano,Língua Inglesa,Assunto Geral,EF06LI01,Bimestral,V2,2025-07-30
+179,Questões Língua Inglesa – Q2 (5º ano),Questão,SPE,2026,5º ano,Língua Inglesa,Assunto Geral,EF06LI01,Bimestral,V2,2025-08-29
+180,Questões Língua Inglesa – Q3 (5º ano),Questão,SPE,2026,5º ano,Língua Inglesa,Assunto Geral,EF06LI01,Bimestral,V2,2025-08-19
+181,Coleção SAS 2025 – 6º ano,Coleção,SAS,2025,6º ano,,,,,,2025-08-07
+182,Livro 6º ano – SAS – V1,Material,SAS,2025,6º ano,,,,Bimestral,V1,2025-07-24
+183,História – Capítulo 1 (6º ano),Capítulo,SAS,2025,6º ano,História,Movimentos migratórios no Brasil,EM13CHS204,Bimestral,V1,2025-07-18
+184,História – Capítulo 2 (6º ano),Capítulo,SAS,2025,6º ano,História,Impérios Asiáticos,EM13CHS204,Bimestral,V1,2025-07-02
+185,História – Capítulo 3 (6º ano),Capítulo,SAS,2025,6º ano,História,América Latina no século XX,EM13CHS204,Bimestral,V1,2025-07-16
+186,História – Capítulo 4 (6º ano),Capítulo,SAS,2025,6º ano,História,Expansão Marítima e Comercial,EM13CHS204,Bimestral,V1,2025-07-02
+187,História – Capítulo 5 (6º ano),Capítulo,SAS,2025,6º ano,História,Unificações e movimentos nacionalistas,EM13CHS204,Bimestral,V1,2025-08-28
+188,História – Capítulo 6 (6º ano),Capítulo,SAS,2025,6º ano,História,Descolonização,EM13CHS204,Bimestral,V1,2025-08-13
+189,Questões História – Q1 (6º ano),Questão,SAS,2025,6º ano,História,Revolução Chinesa,EM13CHS204,Bimestral,V1,2025-08-27
+190,Questões História – Q2 (6º ano),Questão,SAS,2025,6º ano,História,Brasil Império: Período regencial,EM13CHS204,Bimestral,V1,2025-08-04
+191,Questões História – Q3 (6º ano),Questão,SAS,2025,6º ano,História,Idade dos Metais,EM13CHS204,Bimestral,V1,2025-08-27
+192,Geografia – Capítulo 1 (6º ano),Capítulo,SAS,2025,6º ano,Geografia,Princípios da Cartografia,EM13CHS204,Bimestral,V1,2025-07-18
+193,Geografia – Capítulo 2 (6º ano),Capítulo,SAS,2025,6º ano,Geografia,Hidrografia,EM13CHS204,Bimestral,V1,2025-07-31
+194,Geografia – Capítulo 3 (6º ano),Capítulo,SAS,2025,6º ano,Geografia,Geografia Educacional,EM13CHS204,Bimestral,V1,2025-08-18
+195,Geografia – Capítulo 4 (6º ano),Capítulo,SAS,2025,6º ano,Geografia,Geografia Física - Desenvolvimento Sustentável,EM13CHS204,Bimestral,V1,2025-08-26
+196,Geografia – Capítulo 5 (6º ano),Capítulo,SAS,2025,6º ano,Geografia,Geografia Social - Liberdade,EM13CHS204,Bimestral,V1,2025-08-19
+197,Geografia – Capítulo 6 (6º ano),Capítulo,SAS,2025,6º ano,Geografia,Políticas de Bem-Estar Social,EM13CHS204,Bimestral,V1,2025-08-10
+198,Questões Geografia – Q1 (6º ano),Questão,SAS,2025,6º ano,Geografia,População e Demografia,EM13CHS204,Bimestral,V1,2025-08-16
+199,Questões Geografia – Q2 (6º ano),Questão,SAS,2025,6º ano,Geografia,Geologia,EM13CHS204,Bimestral,V1,2025-08-24
+200,Questões Geografia – Q3 (6º ano),Questão,SAS,2025,6º ano,Geografia,Astronomia Cultural,EM13CHS204,Bimestral,V1,2025-07-16
+201,Coleção COC 2026 – 7º ano,Coleção,COC,2026,7º ano,,,,,,2025-08-10
+202,Livro 7º ano – COC – V2,Material,COC,2026,7º ano,,,,Bimestral,V2,2025-08-13
+203,Física – Capítulo 1 (7º ano),Capítulo,COC,2026,7º ano,Física,Campos magnéticos,EM13CNT301,Bimestral,V2,2025-07-07
+204,Física – Capítulo 2 (7º ano),Capítulo,COC,2026,7º ano,Física,Tipos de Oscilações,EM13CNT301,Bimestral,V2,2025-07-29
+205,Física – Capítulo 3 (7º ano),Capítulo,COC,2026,7º ano,Física,Lei de Ohm,EM13CNT301,Bimestral,V2,2025-07-22
+206,Física – Capítulo 4 (7º ano),Capítulo,COC,2026,7º ano,Física,Relatividade: Aplicações e Implicações,EM13CNT301,Bimestral,V2,2025-07-24
+207,Física – Capítulo 5 (7º ano),Capítulo,COC,2026,7º ano,Física,Ressonância,EM13CNT301,Bimestral,V2,2025-08-04
+208,Física – Capítulo 6 (7º ano),Capítulo,COC,2026,7º ano,Física,Resistência Elétrica,EM13CNT301,Bimestral,V2,2025-08-20
+209,Questões Física – Q1 (7º ano),Questão,COC,2026,7º ano,Física,Movimento Harmônico Simples (MHS),EM13CNT301,Bimestral,V2,2025-07-30
+210,Questões Física – Q2 (7º ano),Questão,COC,2026,7º ano,Física,Transformadores,EM13CNT301,Bimestral,V2,2025-08-10
+211,Questões Física – Q3 (7º ano),Questão,COC,2026,7º ano,Física,Tubos sonoros: Modos de Ressonância,EM13CNT301,Bimestral,V2,2025-08-05
+212,Matemática – Capítulo 1 (7º ano),Capítulo,COC,2026,7º ano,Matemática,Geometria Plana,EF09MA14,Bimestral,V2,2025-07-15
+213,Matemática – Capítulo 2 (7º ano),Capítulo,COC,2026,7º ano,Matemática,Geometria - Trigonometria,EF09MA14,Bimestral,V2,2025-08-30
+214,Matemática – Capítulo 3 (7º ano),Capítulo,COC,2026,7º ano,Matemática,Lógica,EF09MA14,Bimestral,V2,2025-08-04
+215,Matemática – Capítulo 4 (7º ano),Capítulo,COC,2026,7º ano,Matemática,Volume,EF09MA14,Bimestral,V2,2025-08-18
+216,Matemática – Capítulo 5 (7º ano),Capítulo,COC,2026,7º ano,Matemática,Matemática Financeira,EF09MA14,Bimestral,V2,2025-08-18
+217,Matemática – Capítulo 6 (7º ano),Capítulo,COC,2026,7º ano,Matemática,Geometria - Trigonometria,EF09MA14,Bimestral,V2,2025-08-20
+218,Questões Matemática – Q1 (7º ano),Questão,COC,2026,7º ano,Matemática,Inequações,EF09MA14,Bimestral,V2,2025-07-13
+219,Questões Matemática – Q2 (7º ano),Questão,COC,2026,7º ano,Matemática,Transformações geométricas,EF09MA14,Bimestral,V2,2025-08-01
+220,Questões Matemática – Q3 (7º ano),Questão,COC,2026,7º ano,Matemática,Equações,EF09MA14,Bimestral,V2,2025-08-23
+221,Coleção SPE 2025 – 8º ano,Coleção,SPE,2025,8º ano,,,,,,2025-07-30
+222,Livro 8º ano – SPE – V1,Material,SPE,2025,8º ano,,,,Bimestral,V1,2025-07-17
+223,Sociologia – Capítulo 1 (8º ano),Capítulo,SPE,2025,8º ano,Sociologia,Conflitos mundiais,EM13CHS504,Bimestral,V1,2025-08-08
+224,Sociologia – Capítulo 2 (8º ano),Capítulo,SPE,2025,8º ano,Sociologia,Conflitos urbanos,EM13CHS504,Bimestral,V1,2025-07-08
+225,Sociologia – Capítulo 3 (8º ano),Capítulo,SPE,2025,8º ano,Sociologia,Relações de poder,EM13CHS504,Bimestral,V1,2025-07-29
+226,Sociologia – Capítulo 4 (8º ano),Capítulo,SPE,2025,8º ano,Sociologia,Meio ambiente e sustentabilidade - Desenvolvimento sustentável,EM13CHS504,Bimestral,V1,2025-07-05
+227,Sociologia – Capítulo 5 (8º ano),Capítulo,SPE,2025,8º ano,Sociologia,Surgimento da Sociologia,EM13CHS504,Bimestral,V1,2025-07-02
+228,Sociologia – Capítulo 6 (8º ano),Capítulo,SPE,2025,8º ano,Sociologia,Política e Estado,EM13CHS504,Bimestral,V1,2025-07-30
+229,Questões Sociologia – Q1 (8º ano),Questão,SPE,2025,8º ano,Sociologia,Meio ambiente e sustentabilidade - Desenvolvimento sustentável,EM13CHS504,Bimestral,V1,2025-07-29
+230,Questões Sociologia – Q2 (8º ano),Questão,SPE,2025,8º ano,Sociologia,Conflitos urbanos,EM13CHS504,Bimestral,V1,2025-08-26
+231,Questões Sociologia – Q3 (8º ano),Questão,SPE,2025,8º ano,Sociologia,Linguagem,EM13CHS504,Bimestral,V1,2025-07-18
+232,Matemática – Capítulo 1 (8º ano),Capítulo,SPE,2025,8º ano,Matemática,Geometria Analítica,EF06MA01,Bimestral,V1,2025-07-29
+233,Matemática – Capítulo 2 (8º ano),Capítulo,SPE,2025,8º ano,Matemática,Números Complexos,EF06MA01,Bimestral,V1,2025-08-07
+234,Matemática – Capítulo 3 (8º ano),Capítulo,SPE,2025,8º ano,Matemática,Matemática - Outros,EF06MA01,Bimestral,V1,2025-07-26
+235,Matemática – Capítulo 4 (8º ano),Capítulo,SPE,2025,8º ano,Matemática,Matemática - Outros,EF06MA01,Bimestral,V1,2025-07-24
+236,Matemática – Capítulo 5 (8º ano),Capítulo,SPE,2025,8º ano,Matemática,Matemática Financeira,EF06MA01,Bimestral,V1,2025-07-08
+237,Matemática – Capítulo 6 (8º ano),Capítulo,SPE,2025,8º ano,Matemática,Probabilidade,EF06MA01,Bimestral,V1,2025-07-15
+238,Questões Matemática – Q1 (8º ano),Questão,SPE,2025,8º ano,Matemática,Vistas e projeções,EF06MA01,Bimestral,V1,2025-08-22
+239,Questões Matemática – Q2 (8º ano),Questão,SPE,2025,8º ano,Matemática,Geometria Analítica,EF06MA01,Bimestral,V1,2025-07-13
+240,Questões Matemática – Q3 (8º ano),Questão,SPE,2025,8º ano,Matemática,Álgebra - Trigonometria,EF06MA01,Bimestral,V1,2025-08-18
+241,Coleção SAS 2025 – 9º ano,Coleção,SAS,2025,9º ano,,,,,,2025-07-07
+242,Livro 9º ano – SAS – V1,Material,SAS,2025,9º ano,,,,Bimestral,V1,2025-07-08
+243,Língua Inglesa – Capítulo 1 (9º ano),Capítulo,SAS,2025,9º ano,Língua Inglesa,Assunto Geral,EF06LI19,Bimestral,V1,2025-07-14
+244,Língua Inglesa – Capítulo 2 (9º ano),Capítulo,SAS,2025,9º ano,Língua Inglesa,Assunto Geral,EF06LI19,Bimestral,V1,2025-07-08
+245,Língua Inglesa – Capítulo 3 (9º ano),Capítulo,SAS,2025,9º ano,Língua Inglesa,Assunto Geral,EF06LI19,Bimestral,V1,2025-07-12
+246,Língua Inglesa – Capítulo 4 (9º ano),Capítulo,SAS,2025,9º ano,Língua Inglesa,Assunto Geral,EF06LI19,Bimestral,V1,2025-08-19
+247,Língua Inglesa – Capítulo 5 (9º ano),Capítulo,SAS,2025,9º ano,Língua Inglesa,Assunto Geral,EF06LI19,Bimestral,V1,2025-08-29
+248,Língua Inglesa – Capítulo 6 (9º ano),Capítulo,SAS,2025,9º ano,Língua Inglesa,Assunto Geral,EF06LI19,Bimestral,V1,2025-07-22
+249,Questões Língua Inglesa – Q1 (9º ano),Questão,SAS,2025,9º ano,Língua Inglesa,Assunto Geral,EF06LI19,Bimestral,V1,2025-08-27
+250,Questões Língua Inglesa – Q2 (9º ano),Questão,SAS,2025,9º ano,Língua Inglesa,Assunto Geral,EF06LI19,Bimestral,V1,2025-08-13
+251,Questões Língua Inglesa – Q3 (9º ano),Questão,SAS,2025,9º ano,Língua Inglesa,Assunto Geral,EF06LI19,Bimestral,V1,2025-08-04
+252,Matemática – Capítulo 1 (9º ano),Capítulo,SAS,2025,9º ano,Matemática,Áreas de superfícies tridimensionais,EF09MA12,Bimestral,V1,2025-07-29
+253,Matemática – Capítulo 2 (9º ano),Capítulo,SAS,2025,9º ano,Matemática,Números Complexos,EF09MA12,Bimestral,V1,2025-07-10
+254,Matemática – Capítulo 3 (9º ano),Capítulo,SAS,2025,9º ano,Matemática,Números Racionais,EF09MA12,Bimestral,V1,2025-08-15
+255,Matemática – Capítulo 4 (9º ano),Capítulo,SAS,2025,9º ano,Matemática,Volume,EF09MA12,Bimestral,V1,2025-08-21
+256,Matemática – Capítulo 5 (9º ano),Capítulo,SAS,2025,9º ano,Matemática,Números Racionais,EF09MA12,Bimestral,V1,2025-08-10
+257,Matemática – Capítulo 6 (9º ano),Capítulo,SAS,2025,9º ano,Matemática,Números Racionais,EF09MA12,Bimestral,V1,2025-08-17
+258,Questões Matemática – Q1 (9º ano),Questão,SAS,2025,9º ano,Matemática,Estatística,EF09MA12,Bimestral,V1,2025-08-05
+259,Questões Matemática – Q2 (9º ano),Questão,SAS,2025,9º ano,Matemática,Números Inteiros,EF09MA12,Bimestral,V1,2025-07-03
+260,Questões Matemática – Q3 (9º ano),Questão,SAS,2025,9º ano,Matemática,Probabilidade,EF09MA12,Bimestral,V1,2025-08-06
+261,Coleção COC 2025 – 1ª série EM,Coleção,COC,2025,1ª série EM,,,,,,2025-08-26
+262,Livro 1ª série EM – COC – V4,Material,COC,2025,1ª série EM,,,,Bimestral,V4,2025-07-02
+263,Biologia – Capítulo 1 (1ª série EM),Capítulo,COC,2025,1ª série EM,Biologia,Sistema sensorial,EM13CNT301,Bimestral,V4,2025-07-28
+264,Biologia – Capítulo 2 (1ª série EM),Capítulo,COC,2025,1ª série EM,Biologia,Filo Porifera (Poríferos),EM13CNT301,Bimestral,V4,2025-08-16
+265,Biologia – Capítulo 3 (1ª série EM),Capítulo,COC,2025,1ª série EM,Biologia,Tecidos permanentes,EM13CNT301,Bimestral,V4,2025-08-17
+266,Biologia – Capítulo 4 (1ª série EM),Capítulo,COC,2025,1ª série EM,Biologia,Tecido muscular estriado cardíaco e tecido muscular liso,EM13CNT301,Bimestral,V4,2025-07-05
+267,Biologia – Capítulo 5 (1ª série EM),Capítulo,COC,2025,1ª série EM,Biologia,Quimiossíntese,EM13CNT301,Bimestral,V4,2025-07-29
+268,Biologia – Capítulo 6 (1ª série EM),Capítulo,COC,2025,1ª série EM,Biologia,"Tecido ósseo, sistema esquelético e tecido cartilaginoso",EM13CNT301,Bimestral,V4,2025-07-31
+269,Questões Biologia – Q1 (1ª série EM),Questão,COC,2025,1ª série EM,Biologia,Saúde,EM13CNT301,Bimestral,V4,2025-07-31
+270,Questões Biologia – Q2 (1ª série EM),Questão,COC,2025,1ª série EM,Biologia,Genética e Evolução - DNA – material genético e genética do funcionamento dos genes,EM13CNT301,Bimestral,V4,2025-08-02
+271,Questões Biologia – Q3 (1ª série EM),Questão,COC,2025,1ª série EM,Biologia,Biologia Celular e Molecular - Características morfológicas e fisiológicas,EM13CNT301,Bimestral,V4,2025-08-23
+272,Química – Capítulo 1 (1ª série EM),Capítulo,COC,2025,1ª série EM,Química,Reações de preparação dos alcanos,EM13CNT305,Bimestral,V4,2025-07-08
+273,Química – Capítulo 2 (1ª série EM),Capítulo,COC,2025,1ª série EM,Química,Introdução às Soluções,EM13CNT305,Bimestral,V4,2025-08-03
+274,Química – Capítulo 3 (1ª série EM),Capítulo,COC,2025,1ª série EM,Química,Cálculos de entalpia,EM13CNT305,Bimestral,V4,2025-08-10
+275,Química – Capítulo 4 (1ª série EM),Capítulo,COC,2025,1ª série EM,Química,Leis Ponderais,EM13CNT305,Bimestral,V4,2025-08-11
+276,Química – Capítulo 5 (1ª série EM),Capítulo,COC,2025,1ª série EM,Química,Petróleo,EM13CNT305,Bimestral,V4,2025-07-27
+277,Química – Capítulo 6 (1ª série EM),Capítulo,COC,2025,1ª série EM,Química,Atomística - Estrutura Atômica,EM13CNT305,Bimestral,V4,2025-07-06
+278,Questões Química – Q1 (1ª série EM),Questão,COC,2025,1ª série EM,Química,Tipos de Reações Químicas,EM13CNT305,Bimestral,V4,2025-08-14
+279,Questões Química – Q2 (1ª série EM),Questão,COC,2025,1ª série EM,Química,Solubilidade,EM13CNT305,Bimestral,V4,2025-08-09
+280,Questões Química – Q3 (1ª série EM),Questão,COC,2025,1ª série EM,Química,Xisto betuminoso,EM13CNT305,Bimestral,V4,2025-08-23
+281,Coleção SPE 2026 – 2ª série EM,Coleção,SPE,2026,2ª série EM,,,,,,2025-07-20
+282,Livro 2ª série EM – SPE – V3,Material,SPE,2026,2ª série EM,,,,Bimestral,V3,2025-08-03
+283,Ciências – Capítulo 1 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Ciências,Ciências - Outros,EF06CI10,Bimestral,V3,2025-07-03
+284,Ciências – Capítulo 2 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Ciências,Ciências - Outros,EF06CI10,Bimestral,V3,2025-08-13
+285,Ciências – Capítulo 3 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Ciências,Ciências - Outros,EF06CI10,Bimestral,V3,2025-07-03
+286,Ciências – Capítulo 4 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Ciências,Ciências - Outros,EF06CI10,Bimestral,V3,2025-07-12
+287,Ciências – Capítulo 5 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Ciências,Ciências - Outros,EF06CI10,Bimestral,V3,2025-08-14
+288,Ciências – Capítulo 6 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Ciências,Ciências - Outros,EF06CI10,Bimestral,V3,2025-07-21
+289,Questões Ciências – Q1 (2ª série EM),Questão,SPE,2026,2ª série EM,Ciências,Ciências - Outros,EF06CI10,Bimestral,V3,2025-07-11
+290,Questões Ciências – Q2 (2ª série EM),Questão,SPE,2026,2ª série EM,Ciências,Ciências - Outros,EF06CI10,Bimestral,V3,2025-07-22
+291,Questões Ciências – Q3 (2ª série EM),Questão,SPE,2026,2ª série EM,Ciências,Ciências - Outros,EF06CI10,Bimestral,V3,2025-08-19
+292,Língua Inglesa – Capítulo 1 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG104,Bimestral,V3,2025-07-04
+293,Língua Inglesa – Capítulo 2 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG104,Bimestral,V3,2025-08-17
+294,Língua Inglesa – Capítulo 3 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG104,Bimestral,V3,2025-08-13
+295,Língua Inglesa – Capítulo 4 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG104,Bimestral,V3,2025-08-24
+296,Língua Inglesa – Capítulo 5 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG104,Bimestral,V3,2025-08-20
+297,Língua Inglesa – Capítulo 6 (2ª série EM),Capítulo,SPE,2026,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG104,Bimestral,V3,2025-08-15
+298,Questões Língua Inglesa – Q1 (2ª série EM),Questão,SPE,2026,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG104,Bimestral,V3,2025-07-10
+299,Questões Língua Inglesa – Q2 (2ª série EM),Questão,SPE,2026,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG104,Bimestral,V3,2025-07-02
+300,Questões Língua Inglesa – Q3 (2ª série EM),Questão,SPE,2026,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG104,Bimestral,V3,2025-08-18
+301,Coleção SAS 2026 – 3ª série EM,Coleção,SAS,2026,3ª série EM,,,,,,2025-08-16
+302,Livro 3ª série EM – SAS – V4,Material,SAS,2026,3ª série EM,,,,Bimestral,V4,2025-07-16
+303,Artes – Capítulo 1 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-07
+304,Artes – Capítulo 2 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-31
+305,Artes – Capítulo 3 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-09
+306,Artes – Capítulo 4 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-18
+307,Artes – Capítulo 5 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-28
+308,Artes – Capítulo 6 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-11
+309,Questões Artes – Q1 (3ª série EM),Questão,SAS,2026,3ª série EM,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-28
+310,Questões Artes – Q2 (3ª série EM),Questão,SAS,2026,3ª série EM,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-14
+311,Questões Artes – Q3 (3ª série EM),Questão,SAS,2026,3ª série EM,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-16
+312,Filosofia – Capítulo 1 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Filosofia,Outros Tópicos Relacionados à Filosofia - Liberdade,EM13CHS106,Bimestral,V4,2025-07-02
+313,Filosofia – Capítulo 2 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Filosofia,Platão,EM13CHS106,Bimestral,V4,2025-07-26
+314,Filosofia – Capítulo 3 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Filosofia,Outros Tópicos Relacionados à Filosofia - Liberdade,EM13CHS106,Bimestral,V4,2025-07-31
+315,Filosofia – Capítulo 4 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Filosofia,Neocriticismo,EM13CHS106,Bimestral,V4,2025-08-23
+316,Filosofia – Capítulo 5 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Filosofia,Neocriticismo,EM13CHS106,Bimestral,V4,2025-08-19
+317,Filosofia – Capítulo 6 (3ª série EM),Capítulo,SAS,2026,3ª série EM,Filosofia,Platão,EM13CHS106,Bimestral,V4,2025-08-20
+318,Questões Filosofia – Q1 (3ª série EM),Questão,SAS,2026,3ª série EM,Filosofia,Hume,EM13CHS106,Bimestral,V4,2025-07-22
+319,Questões Filosofia – Q2 (3ª série EM),Questão,SAS,2026,3ª série EM,Filosofia,Outros Tópicos Relacionados à Filosofia - Cultura e sociedade,EM13CHS106,Bimestral,V4,2025-08-25
+320,Questões Filosofia – Q3 (3ª série EM),Questão,SAS,2026,3ª série EM,Filosofia,Racionalismo,EM13CHS106,Bimestral,V4,2025-07-21
+321,Coleção SAS 2026 – 1º ano,Coleção,SAS,2026,1º ano,,,,,,2025-08-27
+322,Livro 1º ano – SAS – V1,Material,SAS,2026,1º ano,,,,Bimestral,V1,2025-08-13
+323,Biologia – Capítulo 1 (1º ano),Capítulo,SAS,2026,1º ano,Biologia,Ecossistemas aquáticos,EM13CNT202,Bimestral,V1,2025-08-11
+324,Biologia – Capítulo 2 (1º ano),Capítulo,SAS,2026,1º ano,Biologia,Tecido hematopoiético e sanguíneo,EM13CNT202,Bimestral,V1,2025-07-17
+325,Biologia – Capítulo 3 (1º ano),Capítulo,SAS,2026,1º ano,Biologia,Filo Chordata (Cordados),EM13CNT202,Bimestral,V1,2025-07-08
+326,Biologia – Capítulo 4 (1º ano),Capítulo,SAS,2026,1º ano,Biologia,Biomas,EM13CNT202,Bimestral,V1,2025-08-07
+327,Biologia – Capítulo 5 (1º ano),Capítulo,SAS,2026,1º ano,Biologia,Aspectos genéticos do funcionamento do corpo humano,EM13CNT202,Bimestral,V1,2025-07-21
+328,Biologia – Capítulo 6 (1º ano),Capítulo,SAS,2026,1º ano,Biologia,Populações humanas,EM13CNT202,Bimestral,V1,2025-07-05
+329,Questões Biologia – Q1 (1º ano),Questão,SAS,2026,1º ano,Biologia,Gimnospermas,EM13CNT202,Bimestral,V1,2025-08-02
+330,Questões Biologia – Q2 (1º ano),Questão,SAS,2026,1º ano,Biologia,Introdução à histologia,EM13CNT202,Bimestral,V1,2025-07-06
+331,Questões Biologia – Q3 (1º ano),Questão,SAS,2026,1º ano,Biologia,"Tecidos (Epitelial, Muscular, Nervoso, etc.)",EM13CNT202,Bimestral,V1,2025-08-17
+332,História – Capítulo 1 (1º ano),Capítulo,SAS,2026,1º ano,História,Cultura e Sociedade na Antiguidade,EF07HI08,Bimestral,V1,2025-08-24
+333,História – Capítulo 2 (1º ano),Capítulo,SAS,2026,1º ano,História,Povoamento da América,EF07HI08,Bimestral,V1,2025-07-12
+334,História – Capítulo 3 (1º ano),Capítulo,SAS,2026,1º ano,História,Populismo no Brasil,EF07HI08,Bimestral,V1,2025-07-26
+335,História – Capítulo 4 (1º ano),Capítulo,SAS,2026,1º ano,História,Expansão dos francos e Império Carolíngio,EF07HI08,Bimestral,V1,2025-07-29
+336,História – Capítulo 5 (1º ano),Capítulo,SAS,2026,1º ano,História,Era das Revoluções: revoluções liberais na Europa do século XIX,EF07HI08,Bimestral,V1,2025-07-17
+337,História – Capítulo 6 (1º ano),Capítulo,SAS,2026,1º ano,História,América Pré-Colombiana,EF07HI08,Bimestral,V1,2025-07-10
+338,Questões História – Q1 (1º ano),Questão,SAS,2026,1º ano,História,Revoluções Burguesas: Revolução Francesa,EF07HI08,Bimestral,V1,2025-08-22
+339,Questões História – Q2 (1º ano),Questão,SAS,2026,1º ano,História,Período Joanino e Independência do Brasil,EF07HI08,Bimestral,V1,2025-08-10
+340,Questões História – Q3 (1º ano),Questão,SAS,2026,1º ano,História,América Contemporânea,EF07HI08,Bimestral,V1,2025-08-29
+341,Química – Capítulo 1 (1º ano),Capítulo,SAS,2026,1º ano,Química,Formas geométricas das moléculas orgânicas,EM13CNT305,Bimestral,V1,2025-07-06
+342,Química – Capítulo 2 (1º ano),Capítulo,SAS,2026,1º ano,Química,Reatividade e propriedades químicas,EM13CNT305,Bimestral,V1,2025-08-18
+343,Química – Capítulo 3 (1º ano),Capítulo,SAS,2026,1º ano,Química,Propriedades Coligativas,EM13CNT305,Bimestral,V1,2025-07-06
+344,Química – Capítulo 4 (1º ano),Capítulo,SAS,2026,1º ano,Química,Reações Orgânicas,EM13CNT305,Bimestral,V1,2025-07-24
+345,Química – Capítulo 5 (1º ano),Capítulo,SAS,2026,1º ano,Química,Reações Químicas - Velocidade das Reações Químicas,EM13CNT305,Bimestral,V1,2025-07-17
+346,Química – Capítulo 6 (1º ano),Capítulo,SAS,2026,1º ano,Química,Ligações Químicas,EM13CNT305,Bimestral,V1,2025-08-20
+347,Questões Química – Q1 (1º ano),Questão,SAS,2026,1º ano,Química,Química Ambiental - Desenvolvimento Sustentável,EM13CNT305,Bimestral,V1,2025-08-22
+348,Questões Química – Q2 (1º ano),Questão,SAS,2026,1º ano,Química,Xisto betuminoso,EM13CNT305,Bimestral,V1,2025-07-01
+349,Questões Química – Q3 (1º ano),Questão,SAS,2026,1º ano,Química,Séries orgânicas,EM13CNT305,Bimestral,V1,2025-07-12
+350,Coleção Conquista 2026 – G2,Coleção,Conquista,2026,G2,,,,,,2025-07-26
+351,Livro G2 – Conquista – V4,Material,Conquista,2026,G2,,,,Bimestral,V4,2025-08-23
+352,Química – Capítulo 1 (G2),Capítulo,Conquista,2026,G2,Química,Cálculos Estequiométricos Básicos,EM13CNT301,Bimestral,V4,2025-07-29
+353,Química – Capítulo 2 (G2),Capítulo,Conquista,2026,G2,Química,Formas geométricas das moléculas orgânicas,EM13CNT301,Bimestral,V4,2025-08-27
+354,Química – Capítulo 3 (G2),Capítulo,Conquista,2026,G2,Química,Reações Limitantes e Excesso de Reagentes,EM13CNT301,Bimestral,V4,2025-08-19
+355,Química – Capítulo 4 (G2),Capítulo,Conquista,2026,G2,Química,Reações de oxi-redução,EM13CNT301,Bimestral,V4,2025-08-16
+356,Química – Capítulo 5 (G2),Capítulo,Conquista,2026,G2,Química,Tipos de Reações Químicas,EM13CNT301,Bimestral,V4,2025-08-07
+357,Química – Capítulo 6 (G2),Capítulo,Conquista,2026,G2,Química,Energia nas transformações,EM13CNT301,Bimestral,V4,2025-08-22
+358,Questões Química – Q1 (G2),Questão,Conquista,2026,G2,Química,Fusão nuclear,EM13CNT301,Bimestral,V4,2025-08-26
+359,Questões Química – Q2 (G2),Questão,Conquista,2026,G2,Química,Sais,EM13CNT301,Bimestral,V4,2025-07-08
+360,Questões Química – Q3 (G2),Questão,Conquista,2026,G2,Química,Bases,EM13CNT301,Bimestral,V4,2025-07-15
+361,Artes – Capítulo 1 (G2),Capítulo,Conquista,2026,G2,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-15
+362,Artes – Capítulo 2 (G2),Capítulo,Conquista,2026,G2,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-01
+363,Artes – Capítulo 3 (G2),Capítulo,Conquista,2026,G2,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-30
+364,Artes – Capítulo 4 (G2),Capítulo,Conquista,2026,G2,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-03
+365,Artes – Capítulo 5 (G2),Capítulo,Conquista,2026,G2,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-08
+366,Artes – Capítulo 6 (G2),Capítulo,Conquista,2026,G2,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-16
+367,Questões Artes – Q1 (G2),Questão,Conquista,2026,G2,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-23
+368,Questões Artes – Q2 (G2),Questão,Conquista,2026,G2,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-10
+369,Questões Artes – Q3 (G2),Questão,Conquista,2026,G2,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-16
+370,Coleção SPE 2026 – G3,Coleção,SPE,2026,G3,,,,,,2025-08-18
+371,Livro G3 – SPE – V4,Material,SPE,2026,G3,,,,Bimestral,V4,2025-08-03
+372,Filosofia – Capítulo 1 (G3),Capítulo,SPE,2026,G3,Filosofia,Positivismo,EM13CHS501,Bimestral,V4,2025-07-12
+373,Filosofia – Capítulo 2 (G3),Capítulo,SPE,2026,G3,Filosofia,Filosofia antiga,EM13CHS501,Bimestral,V4,2025-07-18
+374,Filosofia – Capítulo 3 (G3),Capítulo,SPE,2026,G3,Filosofia,Espinosa,EM13CHS501,Bimestral,V4,2025-08-15
+375,Filosofia – Capítulo 4 (G3),Capítulo,SPE,2026,G3,Filosofia,Berkeley,EM13CHS501,Bimestral,V4,2025-07-27
+376,Filosofia – Capítulo 5 (G3),Capítulo,SPE,2026,G3,Filosofia,Pós-modernismo,EM13CHS501,Bimestral,V4,2025-08-05
+377,Filosofia – Capítulo 6 (G3),Capítulo,SPE,2026,G3,Filosofia,Outros Tópicos Relacionados à Filosofia - Ciência,EM13CHS501,Bimestral,V4,2025-07-09
+378,Questões Filosofia – Q1 (G3),Questão,SPE,2026,G3,Filosofia,Origens da Filosofia,EM13CHS501,Bimestral,V4,2025-07-25
+379,Questões Filosofia – Q2 (G3),Questão,SPE,2026,G3,Filosofia,Comunicação de massa,EM13CHS501,Bimestral,V4,2025-08-17
+380,Questões Filosofia – Q3 (G3),Questão,SPE,2026,G3,Filosofia,Psicologismo,EM13CHS501,Bimestral,V4,2025-08-09
+381,Geografia – Capítulo 1 (G3),Capítulo,SPE,2026,G3,Geografia,Geografia do Trabalho,EF06GE09,Bimestral,V4,2025-07-19
+382,Geografia – Capítulo 2 (G3),Capítulo,SPE,2026,G3,Geografia,Movimentos Sociais,EF06GE09,Bimestral,V4,2025-08-01
+383,Geografia – Capítulo 3 (G3),Capítulo,SPE,2026,G3,Geografia,Princípios da Cartografia,EF06GE09,Bimestral,V4,2025-08-27
+384,Geografia – Capítulo 4 (G3),Capítulo,SPE,2026,G3,Geografia,Sistema Solar,EF06GE09,Bimestral,V4,2025-07-17
+385,Geografia – Capítulo 5 (G3),Capítulo,SPE,2026,G3,Geografia,Ética e Responsabilidade na Cartografia,EF06GE09,Bimestral,V4,2025-07-28
+386,Geografia – Capítulo 6 (G3),Capítulo,SPE,2026,G3,Geografia,Sistema Solar,EF06GE09,Bimestral,V4,2025-08-29
+387,Questões Geografia – Q1 (G3),Questão,SPE,2026,G3,Geografia,História da Cartografia,EF06GE09,Bimestral,V4,2025-07-16
+388,Questões Geografia – Q2 (G3),Questão,SPE,2026,G3,Geografia,Diversidade Cultural,EF06GE09,Bimestral,V4,2025-08-06
+389,Questões Geografia – Q3 (G3),Questão,SPE,2026,G3,Geografia,Geografia - Outros,EF06GE09,Bimestral,V4,2025-08-07
+390,Coleção COC 2026 – G4,Coleção,COC,2026,G4,,,,,,2025-07-29
+391,Livro G4 – COC – V4,Material,COC,2026,G4,,,,Bimestral,V4,2025-07-04
+392,Artes – Capítulo 1 (G4),Capítulo,COC,2026,G4,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-26
+393,Artes – Capítulo 2 (G4),Capítulo,COC,2026,G4,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-22
+394,Artes – Capítulo 3 (G4),Capítulo,COC,2026,G4,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-18
+395,Artes – Capítulo 4 (G4),Capítulo,COC,2026,G4,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-10
+396,Artes – Capítulo 5 (G4),Capítulo,COC,2026,G4,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-10
+397,Artes – Capítulo 6 (G4),Capítulo,COC,2026,G4,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-21
+398,Questões Artes – Q1 (G4),Questão,COC,2026,G4,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-02
+399,Questões Artes – Q2 (G4),Questão,COC,2026,G4,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-26
+400,Questões Artes – Q3 (G4),Questão,COC,2026,G4,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-20
+401,Ciências – Capítulo 1 (G4),Capítulo,COC,2026,G4,Ciências,Ciências - Outros,EF09CI03,Bimestral,V4,2025-08-03
+402,Ciências – Capítulo 2 (G4),Capítulo,COC,2026,G4,Ciências,Ciências - Outros,EF09CI03,Bimestral,V4,2025-07-19
+403,Ciências – Capítulo 3 (G4),Capítulo,COC,2026,G4,Ciências,Ciências - Outros,EF09CI03,Bimestral,V4,2025-08-26
+404,Ciências – Capítulo 4 (G4),Capítulo,COC,2026,G4,Ciências,Ciências - Outros,EF09CI03,Bimestral,V4,2025-08-01
+405,Ciências – Capítulo 5 (G4),Capítulo,COC,2026,G4,Ciências,Ciências - Outros,EF09CI03,Bimestral,V4,2025-07-30
+406,Ciências – Capítulo 6 (G4),Capítulo,COC,2026,G4,Ciências,Ciências - Outros,EF09CI03,Bimestral,V4,2025-08-26
+407,Questões Ciências – Q1 (G4),Questão,COC,2026,G4,Ciências,Ciências - Outros,EF09CI03,Bimestral,V4,2025-08-18
+408,Questões Ciências – Q2 (G4),Questão,COC,2026,G4,Ciências,Ciências - Outros,EF09CI03,Bimestral,V4,2025-07-25
+409,Questões Ciências – Q3 (G4),Questão,COC,2026,G4,Ciências,Ciências - Outros,EF09CI03,Bimestral,V4,2025-07-04
+410,Coleção SPE 2025 – G4,Coleção,SPE,2025,G4,,,,,,2025-08-11
+411,Livro G4 – SPE – V1,Material,SPE,2025,G4,,,,Bimestral,V1,2025-07-03
+412,História – Capítulo 1 (G4),Capítulo,SPE,2025,G4,História,Outras reformas religiosas,EM13CHS502,Bimestral,V1,2025-08-16
+413,História – Capítulo 2 (G4),Capítulo,SPE,2025,G4,História,América Espanhola no período colonial,EM13CHS502,Bimestral,V1,2025-08-13
+414,História – Capítulo 3 (G4),Capítulo,SPE,2025,G4,História,Cultura e Sociedade na Antiguidade,EM13CHS502,Bimestral,V1,2025-08-21
+415,História – Capítulo 4 (G4),Capítulo,SPE,2025,G4,História,Neoliberalismo,EM13CHS502,Bimestral,V1,2025-07-17
+416,História – Capítulo 5 (G4),Capítulo,SPE,2025,G4,História,Movimentos migratórios no Brasil,EM13CHS502,Bimestral,V1,2025-08-23
+417,História – Capítulo 6 (G4),Capítulo,SPE,2025,G4,História,Pré-história do Brasil: modos de vida e subsistência,EM13CHS502,Bimestral,V1,2025-07-14
+418,Questões História – Q1 (G4),Questão,SPE,2025,G4,História,História - Outros,EM13CHS502,Bimestral,V1,2025-08-06
+419,Questões História – Q2 (G4),Questão,SPE,2025,G4,História,Era das Revoluções: revoluções liberais na Europa do século XIX,EM13CHS502,Bimestral,V1,2025-08-14
+420,Questões História – Q3 (G4),Questão,SPE,2025,G4,História,Pré-história do Brasil: Arqueologia Brasileira,EM13CHS502,Bimestral,V1,2025-07-12
+421,Língua Portuguesa – Capítulo 1 (G4),Capítulo,SPE,2025,G4,Língua Portuguesa,Assunto Geral,EF69LP16,Bimestral,V1,2025-08-26
+422,Língua Portuguesa – Capítulo 2 (G4),Capítulo,SPE,2025,G4,Língua Portuguesa,Assunto Geral,EF69LP16,Bimestral,V1,2025-07-11
+423,Língua Portuguesa – Capítulo 3 (G4),Capítulo,SPE,2025,G4,Língua Portuguesa,Assunto Geral,EF69LP16,Bimestral,V1,2025-08-20
+424,Língua Portuguesa – Capítulo 4 (G4),Capítulo,SPE,2025,G4,Língua Portuguesa,Assunto Geral,EF69LP16,Bimestral,V1,2025-07-18
+425,Língua Portuguesa – Capítulo 5 (G4),Capítulo,SPE,2025,G4,Língua Portuguesa,Assunto Geral,EF69LP16,Bimestral,V1,2025-08-15
+426,Língua Portuguesa – Capítulo 6 (G4),Capítulo,SPE,2025,G4,Língua Portuguesa,Assunto Geral,EF69LP16,Bimestral,V1,2025-07-11
+427,Questões Língua Portuguesa – Q1 (G4),Questão,SPE,2025,G4,Língua Portuguesa,Assunto Geral,EF69LP16,Bimestral,V1,2025-07-01
+428,Questões Língua Portuguesa – Q2 (G4),Questão,SPE,2025,G4,Língua Portuguesa,Assunto Geral,EF69LP16,Bimestral,V1,2025-08-10
+429,Questões Língua Portuguesa – Q3 (G4),Questão,SPE,2025,G4,Língua Portuguesa,Assunto Geral,EF69LP16,Bimestral,V1,2025-08-14
+430,Coleção SPE 2026 – 1º ano,Coleção,SPE,2026,1º ano,,,,,,2025-08-03
+431,Livro 1º ano – SPE – V4,Material,SPE,2026,1º ano,,,,Bimestral,V4,2025-08-26
+432,História – Capítulo 1 (1º ano),Capítulo,SPE,2026,1º ano,História,Expansão Marítima e Comercial,EM13CHS104,Bimestral,V4,2025-07-10
+433,História – Capítulo 2 (1º ano),Capítulo,SPE,2026,1º ano,História,História da América - Populismo na América Latina,EM13CHS104,Bimestral,V4,2025-08-10
+434,História – Capítulo 3 (1º ano),Capítulo,SPE,2026,1º ano,História,Descolonização da Ásia,EM13CHS104,Bimestral,V4,2025-07-10
+435,História – Capítulo 4 (1º ano),Capítulo,SPE,2026,1º ano,História,Expansão Marítima e Comercial,EM13CHS104,Bimestral,V4,2025-07-11
+436,História – Capítulo 5 (1º ano),Capítulo,SPE,2026,1º ano,História,Ditaduras e Governança Autoritária,EM13CHS104,Bimestral,V4,2025-07-04
+437,História – Capítulo 6 (1º ano),Capítulo,SPE,2026,1º ano,História,Ética e responsabilidade na prática histórica,EM13CHS104,Bimestral,V4,2025-08-06
+438,Questões História – Q1 (1º ano),Questão,SPE,2026,1º ano,História,Movimentos migratórios no Brasil,EM13CHS104,Bimestral,V4,2025-07-07
+439,Questões História – Q2 (1º ano),Questão,SPE,2026,1º ano,História,Direitos humanos e movimentos sociais,EM13CHS104,Bimestral,V4,2025-07-27
+440,Questões História – Q3 (1º ano),Questão,SPE,2026,1º ano,História,Crises e transformações,EM13CHS104,Bimestral,V4,2025-07-10
+441,Língua Inglesa – Capítulo 1 (1º ano),Capítulo,SPE,2026,1º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V4,2025-07-06
+442,Língua Inglesa – Capítulo 2 (1º ano),Capítulo,SPE,2026,1º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V4,2025-08-23
+443,Língua Inglesa – Capítulo 3 (1º ano),Capítulo,SPE,2026,1º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V4,2025-07-28
+444,Língua Inglesa – Capítulo 4 (1º ano),Capítulo,SPE,2026,1º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V4,2025-08-29
+445,Língua Inglesa – Capítulo 5 (1º ano),Capítulo,SPE,2026,1º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V4,2025-07-27
+446,Língua Inglesa – Capítulo 6 (1º ano),Capítulo,SPE,2026,1º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V4,2025-08-08
+447,Questões Língua Inglesa – Q1 (1º ano),Questão,SPE,2026,1º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V4,2025-08-13
+448,Questões Língua Inglesa – Q2 (1º ano),Questão,SPE,2026,1º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V4,2025-07-11
+449,Questões Língua Inglesa – Q3 (1º ano),Questão,SPE,2026,1º ano,Língua Inglesa,Assunto Geral,EF08LI14,Bimestral,V4,2025-08-25
+450,Coleção SPE 2025 – 3º ano,Coleção,SPE,2025,3º ano,,,,,,2025-07-19
+451,Livro 3º ano – SPE – V1,Material,SPE,2025,3º ano,,,,Bimestral,V1,2025-07-20
+452,História – Capítulo 1 (3º ano),Capítulo,SPE,2025,3º ano,História,República Nova,EF08HI04,Bimestral,V1,2025-07-26
+453,História – Capítulo 2 (3º ano),Capítulo,SPE,2025,3º ano,História,Brasil Pré-Colonial,EF08HI04,Bimestral,V1,2025-07-17
+454,História – Capítulo 3 (3º ano),Capítulo,SPE,2025,3º ano,História,História e memória,EF08HI04,Bimestral,V1,2025-08-17
+455,História – Capítulo 4 (3º ano),Capítulo,SPE,2025,3º ano,História,Arte e Cultura Pré-Colombianas,EF08HI04,Bimestral,V1,2025-07-12
+456,História – Capítulo 5 (3º ano),Capítulo,SPE,2025,3º ano,História,História da África - Questões Contemporâneas,EF08HI04,Bimestral,V1,2025-07-12
+457,História – Capítulo 6 (3º ano),Capítulo,SPE,2025,3º ano,História,Cultura e Arte Medieval,EF08HI04,Bimestral,V1,2025-08-30
+458,Questões História – Q1 (3º ano),Questão,SPE,2025,3º ano,História,Brasil Pré-Colonial,EF08HI04,Bimestral,V1,2025-07-14
+459,Questões História – Q2 (3º ano),Questão,SPE,2025,3º ano,História,Neolítico,EF08HI04,Bimestral,V1,2025-08-26
+460,Questões História – Q3 (3º ano),Questão,SPE,2025,3º ano,História,América Espanhola no período colonial,EF08HI04,Bimestral,V1,2025-08-06
+461,Sociologia – Capítulo 1 (3º ano),Capítulo,SPE,2025,3º ano,Sociologia,Outros Tópicos Relacionados à Sociologia - Gênero,EM13CHS204,Bimestral,V1,2025-08-08
+462,Sociologia – Capítulo 2 (3º ano),Capítulo,SPE,2025,3º ano,Sociologia,Cultura e ideologia - Patrimônio cultural,EM13CHS204,Bimestral,V1,2025-08-20
+463,Sociologia – Capítulo 3 (3º ano),Capítulo,SPE,2025,3º ano,Sociologia,Cultura e ideologia - Patrimônio cultural,EM13CHS204,Bimestral,V1,2025-07-21
+464,Sociologia – Capítulo 4 (3º ano),Capítulo,SPE,2025,3º ano,Sociologia,Perspectivas Contemporâneas sobre a Modernidade e a Sociedade,EM13CHS204,Bimestral,V1,2025-08-22
+465,Sociologia – Capítulo 5 (3º ano),Capítulo,SPE,2025,3º ano,Sociologia,Conceitos de Sociologia,EM13CHS204,Bimestral,V1,2025-07-30
+466,Sociologia – Capítulo 6 (3º ano),Capítulo,SPE,2025,3º ano,Sociologia,Conflitos urbanos,EM13CHS204,Bimestral,V1,2025-07-17
+467,Questões Sociologia – Q1 (3º ano),Questão,SPE,2025,3º ano,Sociologia,Outros Tópicos Relacionados à Sociologia - Ciência,EM13CHS204,Bimestral,V1,2025-07-18
+468,Questões Sociologia – Q2 (3º ano),Questão,SPE,2025,3º ano,Sociologia,Socialização e instituições sociais,EM13CHS204,Bimestral,V1,2025-07-06
+469,Questões Sociologia – Q3 (3º ano),Questão,SPE,2025,3º ano,Sociologia,Estrutura social,EM13CHS204,Bimestral,V1,2025-07-01
+470,Coleção SPE 2025 – 2º ano,Coleção,SPE,2025,2º ano,,,,,,2025-07-18
+471,Livro 2º ano – SPE – V3,Material,SPE,2025,2º ano,,,,Bimestral,V3,2025-07-04
+472,Ciências – Capítulo 1 (2º ano),Capítulo,SPE,2025,2º ano,Ciências,Ciências - Outros,EF08CI06,Bimestral,V3,2025-07-18
+473,Ciências – Capítulo 2 (2º ano),Capítulo,SPE,2025,2º ano,Ciências,Ciências - Outros,EF08CI06,Bimestral,V3,2025-08-01
+474,Ciências – Capítulo 3 (2º ano),Capítulo,SPE,2025,2º ano,Ciências,Ciências - Outros,EF08CI06,Bimestral,V3,2025-07-17
+475,Ciências – Capítulo 4 (2º ano),Capítulo,SPE,2025,2º ano,Ciências,Ciências - Outros,EF08CI06,Bimestral,V3,2025-07-29
+476,Ciências – Capítulo 5 (2º ano),Capítulo,SPE,2025,2º ano,Ciências,Ciências - Outros,EF08CI06,Bimestral,V3,2025-08-17
+477,Ciências – Capítulo 6 (2º ano),Capítulo,SPE,2025,2º ano,Ciências,Ciências - Outros,EF08CI06,Bimestral,V3,2025-07-07
+478,Questões Ciências – Q1 (2º ano),Questão,SPE,2025,2º ano,Ciências,Ciências - Outros,EF08CI06,Bimestral,V3,2025-08-18
+479,Questões Ciências – Q2 (2º ano),Questão,SPE,2025,2º ano,Ciências,Ciências - Outros,EF08CI06,Bimestral,V3,2025-08-17
+480,Questões Ciências – Q3 (2º ano),Questão,SPE,2025,2º ano,Ciências,Ciências - Outros,EF08CI06,Bimestral,V3,2025-07-24
+481,Biologia – Capítulo 1 (2º ano),Capítulo,SPE,2025,2º ano,Biologia,IST (Infecções Sexualmente Transmissíveis),EM13CNT202,Bimestral,V3,2025-07-23
+482,Biologia – Capítulo 2 (2º ano),Capítulo,SPE,2025,2º ano,Biologia,Reino Plantae,EM13CNT202,Bimestral,V3,2025-08-04
+483,Biologia – Capítulo 3 (2º ano),Capítulo,SPE,2025,2º ano,Biologia,Gastrulação,EM13CNT202,Bimestral,V3,2025-07-21
+484,Biologia – Capítulo 4 (2º ano),Capítulo,SPE,2025,2º ano,Biologia,Sucessão ecológica e comunidades clímax,EM13CNT202,Bimestral,V3,2025-07-10
+485,Biologia – Capítulo 5 (2º ano),Capítulo,SPE,2025,2º ano,Biologia,Determinantes sociais,EM13CNT202,Bimestral,V3,2025-08-04
+486,Biologia – Capítulo 6 (2º ano),Capítulo,SPE,2025,2º ano,Biologia,Biotecnologia,EM13CNT202,Bimestral,V3,2025-07-08
+487,Questões Biologia – Q1 (2º ano),Questão,SPE,2025,2º ano,Biologia,Sistema nervoso,EM13CNT202,Bimestral,V3,2025-08-16
+488,Questões Biologia – Q2 (2º ano),Questão,SPE,2025,2º ano,Biologia,Fisiologia celular,EM13CNT202,Bimestral,V3,2025-07-07
+489,Questões Biologia – Q3 (2º ano),Questão,SPE,2025,2º ano,Biologia,Metabolismo,EM13CNT202,Bimestral,V3,2025-08-04
+490,Coleção SAS 2026 – G5,Coleção,SAS,2026,G5,,,,,,2025-07-07
+491,Livro G5 – SAS – V4,Material,SAS,2026,G5,,,,Bimestral,V4,2025-08-17
+492,Biologia – Capítulo 1 (G5),Capítulo,SAS,2026,G5,Biologia,Tecido epitelial glandular,EM13CNT305,Bimestral,V4,2025-07-11
+493,Biologia – Capítulo 2 (G5),Capítulo,SAS,2026,G5,Biologia,Citologia e microscopia,EM13CNT305,Bimestral,V4,2025-08-11
+494,Biologia – Capítulo 3 (G5),Capítulo,SAS,2026,G5,Biologia,Enzimas,EM13CNT305,Bimestral,V4,2025-07-13
+495,Biologia – Capítulo 4 (G5),Capítulo,SAS,2026,G5,Biologia,Relações Interespecíficas,EM13CNT305,Bimestral,V4,2025-07-09
+496,Biologia – Capítulo 5 (G5),Capítulo,SAS,2026,G5,Biologia,"Herança autossômica monogênica, penetrância e expressividade",EM13CNT305,Bimestral,V4,2025-08-23
+497,Biologia – Capítulo 6 (G5),Capítulo,SAS,2026,G5,Biologia,Angiospermas,EM13CNT305,Bimestral,V4,2025-07-03
+498,Questões Biologia – Q1 (G5),Questão,SAS,2026,G5,Biologia,Desequilíbrio em ecossistemas,EM13CNT305,Bimestral,V4,2025-07-26
+499,Questões Biologia – Q2 (G5),Questão,SAS,2026,G5,Biologia,Tecido nervoso,EM13CNT305,Bimestral,V4,2025-08-20
+500,Questões Biologia – Q3 (G5),Questão,SAS,2026,G5,Biologia,Angiospermas,EM13CNT305,Bimestral,V4,2025-07-14
+501,Língua Inglesa – Capítulo 1 (G5),Capítulo,SAS,2026,G5,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-29
+502,Língua Inglesa – Capítulo 2 (G5),Capítulo,SAS,2026,G5,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-27
+503,Língua Inglesa – Capítulo 3 (G5),Capítulo,SAS,2026,G5,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-21
+504,Língua Inglesa – Capítulo 4 (G5),Capítulo,SAS,2026,G5,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-07-25
+505,Língua Inglesa – Capítulo 5 (G5),Capítulo,SAS,2026,G5,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-06
+506,Língua Inglesa – Capítulo 6 (G5),Capítulo,SAS,2026,G5,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-25
+507,Questões Língua Inglesa – Q1 (G5),Questão,SAS,2026,G5,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-24
+508,Questões Língua Inglesa – Q2 (G5),Questão,SAS,2026,G5,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-07-11
+509,Questões Língua Inglesa – Q3 (G5),Questão,SAS,2026,G5,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-04
+510,Coleção SPE 2026 – 2º ano,Coleção,SPE,2026,2º ano,,,,,,2025-07-17
+511,Livro 2º ano – SPE – V3,Material,SPE,2026,2º ano,,,,Bimestral,V3,2025-08-12
+512,Geografia – Capítulo 1 (2º ano),Capítulo,SPE,2026,2º ano,Geografia,Astronomia,EF06GE08,Bimestral,V3,2025-08-18
+513,Geografia – Capítulo 2 (2º ano),Capítulo,SPE,2026,2º ano,Geografia,Geografia Física - Desenvolvimento Sustentável,EF06GE08,Bimestral,V3,2025-07-06
+514,Geografia – Capítulo 3 (2º ano),Capítulo,SPE,2026,2º ano,Geografia,População e Demografia,EF06GE08,Bimestral,V3,2025-07-24
+515,Geografia – Capítulo 4 (2º ano),Capítulo,SPE,2026,2º ano,Geografia,Gastronomia e Culinária,EF06GE08,Bimestral,V3,2025-08-17
+516,Geografia – Capítulo 5 (2º ano),Capítulo,SPE,2026,2º ano,Geografia,Festividades e Celebrações,EF06GE08,Bimestral,V3,2025-08-01
+517,Geografia – Capítulo 6 (2º ano),Capítulo,SPE,2026,2º ano,Geografia,Técnicas de Sensoriamento Remoto,EF06GE08,Bimestral,V3,2025-07-10
+518,Questões Geografia – Q1 (2º ano),Questão,SPE,2026,2º ano,Geografia,Problemas ambientais,EF06GE08,Bimestral,V3,2025-08-15
+519,Questões Geografia – Q2 (2º ano),Questão,SPE,2026,2º ano,Geografia,Turismo,EF06GE08,Bimestral,V3,2025-07-25
+520,Questões Geografia – Q3 (2º ano),Questão,SPE,2026,2º ano,Geografia,Movimentos Celestes,EF06GE08,Bimestral,V3,2025-07-23
+521,História – Capítulo 1 (2º ano),Capítulo,SPE,2026,2º ano,História,Economia e Comércio,EM13CHS606,Bimestral,V3,2025-07-15
+522,História – Capítulo 2 (2º ano),Capítulo,SPE,2026,2º ano,História,Neolítico,EM13CHS606,Bimestral,V3,2025-08-28
+523,História – Capítulo 3 (2º ano),Capítulo,SPE,2026,2º ano,História,Período Joanino e Independência do Brasil,EM13CHS606,Bimestral,V3,2025-07-11
+524,História – Capítulo 4 (2º ano),Capítulo,SPE,2026,2º ano,História,Renascimento,EM13CHS606,Bimestral,V3,2025-07-02
+525,História – Capítulo 5 (2º ano),Capítulo,SPE,2026,2º ano,História,Abolição da Escravidão,EM13CHS606,Bimestral,V3,2025-08-14
+526,História – Capítulo 6 (2º ano),Capítulo,SPE,2026,2º ano,História,Império Bizantino,EM13CHS606,Bimestral,V3,2025-07-26
+527,Questões História – Q1 (2º ano),Questão,SPE,2026,2º ano,História,Idade Contemporânea - Migrações,EM13CHS606,Bimestral,V3,2025-07-10
+528,Questões História – Q2 (2º ano),Questão,SPE,2026,2º ano,História,Cultura e Sociedade na Antiguidade,EM13CHS606,Bimestral,V3,2025-08-10
+529,Questões História – Q3 (2º ano),Questão,SPE,2026,2º ano,História,Cultura e Sociedade na Antiguidade,EM13CHS606,Bimestral,V3,2025-07-15
+530,Coleção COC 2026 – G2,Coleção,COC,2026,G2,,,,,,2025-08-12
+531,Livro G2 – COC – V1,Material,COC,2026,G2,,,,Bimestral,V1,2025-07-30
+532,Biologia – Capítulo 1 (G2),Capítulo,COC,2026,G2,Biologia,Tato,EM13CNT202,Bimestral,V1,2025-07-25
+533,Biologia – Capítulo 2 (G2),Capítulo,COC,2026,G2,Biologia,Relações Interespecíficas,EM13CNT202,Bimestral,V1,2025-08-23
+534,Biologia – Capítulo 3 (G2),Capítulo,COC,2026,G2,Biologia,Tipos de seleção natural,EM13CNT202,Bimestral,V1,2025-08-02
+535,Biologia – Capítulo 4 (G2),Capítulo,COC,2026,G2,Biologia,Controle ambiental e saneamento básico,EM13CNT202,Bimestral,V1,2025-07-01
+536,Biologia – Capítulo 5 (G2),Capítulo,COC,2026,G2,Biologia,Controle ambiental e saneamento básico,EM13CNT202,Bimestral,V1,2025-07-10
+537,Biologia – Capítulo 6 (G2),Capítulo,COC,2026,G2,Biologia,Mapas de ligação gênica (linkage),EM13CNT202,Bimestral,V1,2025-07-22
+538,Questões Biologia – Q1 (G2),Questão,COC,2026,G2,Biologia,Agnatha e superclasse dos pisces,EM13CNT202,Bimestral,V1,2025-07-14
+539,Questões Biologia – Q2 (G2),Questão,COC,2026,G2,Biologia,Filo Porifera (Poríferos),EM13CNT202,Bimestral,V1,2025-08-11
+540,Questões Biologia – Q3 (G2),Questão,COC,2026,G2,Biologia,Dinâmica das Populações,EM13CNT202,Bimestral,V1,2025-07-12
+541,Matemática – Capítulo 1 (G2),Capítulo,COC,2026,G2,Matemática,Razão,EF09MA04,Bimestral,V1,2025-07-30
+542,Matemática – Capítulo 2 (G2),Capítulo,COC,2026,G2,Matemática,Números Naturais,EF09MA04,Bimestral,V1,2025-08-19
+543,Matemática – Capítulo 3 (G2),Capítulo,COC,2026,G2,Matemática,Proporcionalidade Direta e Indireta,EF09MA04,Bimestral,V1,2025-07-03
+544,Matemática – Capítulo 4 (G2),Capítulo,COC,2026,G2,Matemática,Inequações,EF09MA04,Bimestral,V1,2025-07-08
+545,Matemática – Capítulo 5 (G2),Capítulo,COC,2026,G2,Matemática,Lógica,EF09MA04,Bimestral,V1,2025-08-28
+546,Matemática – Capítulo 6 (G2),Capítulo,COC,2026,G2,Matemática,Estatística,EF09MA04,Bimestral,V1,2025-07-11
+547,Questões Matemática – Q1 (G2),Questão,COC,2026,G2,Matemática,Álgebra - Trigonometria,EF09MA04,Bimestral,V1,2025-07-03
+548,Questões Matemática – Q2 (G2),Questão,COC,2026,G2,Matemática,Cônicas,EF09MA04,Bimestral,V1,2025-08-28
+549,Questões Matemática – Q3 (G2),Questão,COC,2026,G2,Matemática,Análise Combinatória,EF09MA04,Bimestral,V1,2025-08-19
+550,Coleção SPE 2025 – 9º ano,Coleção,SPE,2025,9º ano,,,,,,2025-08-05
+551,Livro 9º ano – SPE – V3,Material,SPE,2025,9º ano,,,,Bimestral,V3,2025-08-24
+552,Sociologia – Capítulo 1 (9º ano),Capítulo,SPE,2025,9º ano,Sociologia,Socialização e instituições sociais,EM13CHS603,Bimestral,V3,2025-08-04
+553,Sociologia – Capítulo 2 (9º ano),Capítulo,SPE,2025,9º ano,Sociologia,Sociologia - Outros,EM13CHS603,Bimestral,V3,2025-08-17
+554,Sociologia – Capítulo 3 (9º ano),Capítulo,SPE,2025,9º ano,Sociologia,"Família, religião, educação e juventude",EM13CHS603,Bimestral,V3,2025-08-29
+555,Sociologia – Capítulo 4 (9º ano),Capítulo,SPE,2025,9º ano,Sociologia,Relações de poder,EM13CHS603,Bimestral,V3,2025-07-09
+556,Sociologia – Capítulo 5 (9º ano),Capítulo,SPE,2025,9º ano,Sociologia,Outros Tópicos Relacionados à Sociologia - Ciência,EM13CHS603,Bimestral,V3,2025-08-10
+557,Sociologia – Capítulo 6 (9º ano),Capítulo,SPE,2025,9º ano,Sociologia,Linguagem,EM13CHS603,Bimestral,V3,2025-07-01
+558,Questões Sociologia – Q1 (9º ano),Questão,SPE,2025,9º ano,Sociologia,Identidade e diversidade,EM13CHS603,Bimestral,V3,2025-07-25
+559,Questões Sociologia – Q2 (9º ano),Questão,SPE,2025,9º ano,Sociologia,Meio ambiente,EM13CHS603,Bimestral,V3,2025-08-04
+560,Questões Sociologia – Q3 (9º ano),Questão,SPE,2025,9º ano,Sociologia,Cultura e ideologia - Cultura e sociedade,EM13CHS603,Bimestral,V3,2025-07-27
+561,Ciências – Capítulo 1 (9º ano),Capítulo,SPE,2025,9º ano,Ciências,Ciências - Outros,EF09CI07,Bimestral,V3,2025-07-30
+562,Ciências – Capítulo 2 (9º ano),Capítulo,SPE,2025,9º ano,Ciências,Ciências - Outros,EF09CI07,Bimestral,V3,2025-07-08
+563,Ciências – Capítulo 3 (9º ano),Capítulo,SPE,2025,9º ano,Ciências,Ciências - Outros,EF09CI07,Bimestral,V3,2025-08-05
+564,Ciências – Capítulo 4 (9º ano),Capítulo,SPE,2025,9º ano,Ciências,Ciências - Outros,EF09CI07,Bimestral,V3,2025-08-05
+565,Ciências – Capítulo 5 (9º ano),Capítulo,SPE,2025,9º ano,Ciências,Ciências - Outros,EF09CI07,Bimestral,V3,2025-08-13
+566,Ciências – Capítulo 6 (9º ano),Capítulo,SPE,2025,9º ano,Ciências,Ciências - Outros,EF09CI07,Bimestral,V3,2025-07-08
+567,Questões Ciências – Q1 (9º ano),Questão,SPE,2025,9º ano,Ciências,Ciências - Outros,EF09CI07,Bimestral,V3,2025-08-12
+568,Questões Ciências – Q2 (9º ano),Questão,SPE,2025,9º ano,Ciências,Ciências - Outros,EF09CI07,Bimestral,V3,2025-08-10
+569,Questões Ciências – Q3 (9º ano),Questão,SPE,2025,9º ano,Ciências,Ciências - Outros,EF09CI07,Bimestral,V3,2025-08-27
+570,Coleção SAS 2026 – 3º ano,Coleção,SAS,2026,3º ano,,,,,,2025-08-24
+571,Livro 3º ano – SAS – V1,Material,SAS,2026,3º ano,,,,Bimestral,V1,2025-08-02
+572,Biologia – Capítulo 1 (3º ano),Capítulo,SAS,2026,3º ano,Biologia,Filo Chordata (Cordados),EM13CNT104,Bimestral,V1,2025-07-09
+573,Biologia – Capítulo 2 (3º ano),Capítulo,SAS,2026,3º ano,Biologia,Introdução ao Reino Plantae,EM13CNT104,Bimestral,V1,2025-07-29
+574,Biologia – Capítulo 3 (3º ano),Capítulo,SAS,2026,3º ano,Biologia,Transplantes,EM13CNT104,Bimestral,V1,2025-08-03
+575,Biologia – Capítulo 4 (3º ano),Capítulo,SAS,2026,3º ano,Biologia,"Tecidos (Epitelial, Muscular, Nervoso, etc.)",EM13CNT104,Bimestral,V1,2025-07-11
+576,Biologia – Capítulo 5 (3º ano),Capítulo,SAS,2026,3º ano,Biologia,Ecossistemas aquáticos,EM13CNT104,Bimestral,V1,2025-07-23
+577,Biologia – Capítulo 6 (3º ano),Capítulo,SAS,2026,3º ano,Biologia,Agnatha e superclasse dos pisces,EM13CNT104,Bimestral,V1,2025-07-14
+578,Questões Biologia – Q1 (3º ano),Questão,SAS,2026,3º ano,Biologia,Tecido epitelial de revestimento,EM13CNT104,Bimestral,V1,2025-07-30
+579,Questões Biologia – Q2 (3º ano),Questão,SAS,2026,3º ano,Biologia,Estrutura e função,EM13CNT104,Bimestral,V1,2025-07-14
+580,Questões Biologia – Q3 (3º ano),Questão,SAS,2026,3º ano,Biologia,Reino Fungi,EM13CNT104,Bimestral,V1,2025-07-29
+581,Artes – Capítulo 1 (3º ano),Capítulo,SAS,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-23
+582,Artes – Capítulo 2 (3º ano),Capítulo,SAS,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-16
+583,Artes – Capítulo 3 (3º ano),Capítulo,SAS,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-12
+584,Artes – Capítulo 4 (3º ano),Capítulo,SAS,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-19
+585,Artes – Capítulo 5 (3º ano),Capítulo,SAS,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-19
+586,Artes – Capítulo 6 (3º ano),Capítulo,SAS,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-12
+587,Questões Artes – Q1 (3º ano),Questão,SAS,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-28
+588,Questões Artes – Q2 (3º ano),Questão,SAS,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-24
+589,Questões Artes – Q3 (3º ano),Questão,SAS,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-02
+590,Coleção SAS 2025 – 1ª série EM,Coleção,SAS,2025,1ª série EM,,,,,,2025-08-08
+591,Livro 1ª série EM – SAS – V2,Material,SAS,2025,1ª série EM,,,,Bimestral,V2,2025-08-30
+592,Biologia – Capítulo 1 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Biologia,Evolução,EM13CNT208,Bimestral,V2,2025-08-16
+593,Biologia – Capítulo 2 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Biologia,Algas,EM13CNT208,Bimestral,V2,2025-08-17
+594,Biologia – Capítulo 3 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Biologia,Saúde,EM13CNT208,Bimestral,V2,2025-08-24
+595,Biologia – Capítulo 4 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Biologia,Sistema genital masculino,EM13CNT208,Bimestral,V2,2025-07-14
+596,Biologia – Capítulo 5 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Biologia,Sistema endócrino,EM13CNT208,Bimestral,V2,2025-08-09
+597,Biologia – Capítulo 6 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Biologia,Tecido nervoso,EM13CNT208,Bimestral,V2,2025-08-03
+598,Questões Biologia – Q1 (1ª série EM),Questão,SAS,2025,1ª série EM,Biologia,Biomas,EM13CNT208,Bimestral,V2,2025-08-29
+599,Questões Biologia – Q2 (1ª série EM),Questão,SAS,2025,1ª série EM,Biologia,Reino Fungi,EM13CNT208,Bimestral,V2,2025-07-11
+600,Questões Biologia – Q3 (1ª série EM),Questão,SAS,2025,1ª série EM,Biologia,Introdução ao Reino Plantae,EM13CNT208,Bimestral,V2,2025-07-28
+601,Geografia – Capítulo 1 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Geografia,Organizações Internacionais,EF07GE08,Bimestral,V2,2025-08-08
+602,Geografia – Capítulo 2 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Geografia,Regiões de Fronteira,EF07GE08,Bimestral,V2,2025-07-29
+603,Geografia – Capítulo 3 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Geografia,Geografia do Trabalho,EF07GE08,Bimestral,V2,2025-08-04
+604,Geografia – Capítulo 4 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Geografia,Sistemas de Referência Geográfica,EF07GE08,Bimestral,V2,2025-07-31
+605,Geografia – Capítulo 5 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Geografia,Geoprocessamento,EF07GE08,Bimestral,V2,2025-08-09
+606,Geografia – Capítulo 6 (1ª série EM),Capítulo,SAS,2025,1ª série EM,Geografia,Gênero e Espaço,EF07GE08,Bimestral,V2,2025-08-08
+607,Questões Geografia – Q1 (1ª série EM),Questão,SAS,2025,1ª série EM,Geografia,Geomorfologia,EF07GE08,Bimestral,V2,2025-07-19
+608,Questões Geografia – Q2 (1ª série EM),Questão,SAS,2025,1ª série EM,Geografia,Geografia Religiosa,EF07GE08,Bimestral,V2,2025-07-04
+609,Questões Geografia – Q3 (1ª série EM),Questão,SAS,2025,1ª série EM,Geografia,Cosmologia,EF07GE08,Bimestral,V2,2025-08-27
+610,História – Capítulo 1 (1ª série EM),Capítulo,SAS,2025,1ª série EM,História,América Pré-Colombiana,EM13CHS504,Bimestral,V2,2025-07-30
+611,História – Capítulo 2 (1ª série EM),Capítulo,SAS,2025,1ª série EM,História,Colonização europeia,EM13CHS504,Bimestral,V2,2025-08-30
+612,História – Capítulo 3 (1ª série EM),Capítulo,SAS,2025,1ª série EM,História,Desenvolvimento tecnológico e científico,EM13CHS504,Bimestral,V2,2025-07-08
+613,História – Capítulo 4 (1ª série EM),Capítulo,SAS,2025,1ª série EM,História,Expansão Marítima e Comercial,EM13CHS504,Bimestral,V2,2025-08-04
+614,História – Capítulo 5 (1ª série EM),Capítulo,SAS,2025,1ª série EM,História,Conflitos e Guerras Civis,EM13CHS504,Bimestral,V2,2025-07-27
+615,História – Capítulo 6 (1ª série EM),Capítulo,SAS,2025,1ª série EM,História,Expansão dos francos e Império Carolíngio,EM13CHS504,Bimestral,V2,2025-07-20
+616,Questões História – Q1 (1ª série EM),Questão,SAS,2025,1ª série EM,História,Culturas indígenas americanas,EM13CHS504,Bimestral,V2,2025-08-06
+617,Questões História – Q2 (1ª série EM),Questão,SAS,2025,1ª série EM,História,Era das Revoluções: revoluções liberais na Europa do século XIX,EM13CHS504,Bimestral,V2,2025-08-03
+618,Questões História – Q3 (1ª série EM),Questão,SAS,2025,1ª série EM,História,Pré-história do Brasil: modos de vida e subsistência,EM13CHS504,Bimestral,V2,2025-07-09
+619,Coleção SPE 2026 – 2º ano,Coleção,SPE,2026,2º ano,,,,,,2025-07-27
+620,Livro 2º ano – SPE – V4,Material,SPE,2026,2º ano,,,,Bimestral,V4,2025-08-19
+621,Língua Inglesa – Capítulo 1 (2º ano),Capítulo,SPE,2026,2º ano,Língua Inglesa,Assunto Geral,EF07LI01,Bimestral,V4,2025-07-24
+622,Língua Inglesa – Capítulo 2 (2º ano),Capítulo,SPE,2026,2º ano,Língua Inglesa,Assunto Geral,EF07LI01,Bimestral,V4,2025-07-12
+623,Língua Inglesa – Capítulo 3 (2º ano),Capítulo,SPE,2026,2º ano,Língua Inglesa,Assunto Geral,EF07LI01,Bimestral,V4,2025-08-18
+624,Língua Inglesa – Capítulo 4 (2º ano),Capítulo,SPE,2026,2º ano,Língua Inglesa,Assunto Geral,EF07LI01,Bimestral,V4,2025-08-10
+625,Língua Inglesa – Capítulo 5 (2º ano),Capítulo,SPE,2026,2º ano,Língua Inglesa,Assunto Geral,EF07LI01,Bimestral,V4,2025-08-04
+626,Língua Inglesa – Capítulo 6 (2º ano),Capítulo,SPE,2026,2º ano,Língua Inglesa,Assunto Geral,EF07LI01,Bimestral,V4,2025-07-12
+627,Questões Língua Inglesa – Q1 (2º ano),Questão,SPE,2026,2º ano,Língua Inglesa,Assunto Geral,EF07LI01,Bimestral,V4,2025-07-26
+628,Questões Língua Inglesa – Q2 (2º ano),Questão,SPE,2026,2º ano,Língua Inglesa,Assunto Geral,EF07LI01,Bimestral,V4,2025-07-15
+629,Questões Língua Inglesa – Q3 (2º ano),Questão,SPE,2026,2º ano,Língua Inglesa,Assunto Geral,EF07LI01,Bimestral,V4,2025-08-19
+630,Língua Portuguesa – Capítulo 1 (2º ano),Capítulo,SPE,2026,2º ano,Língua Portuguesa,Assunto Geral,EM13LGG601,Bimestral,V4,2025-07-25
+631,Língua Portuguesa – Capítulo 2 (2º ano),Capítulo,SPE,2026,2º ano,Língua Portuguesa,Assunto Geral,EM13LGG601,Bimestral,V4,2025-07-17
+632,Língua Portuguesa – Capítulo 3 (2º ano),Capítulo,SPE,2026,2º ano,Língua Portuguesa,Assunto Geral,EM13LGG601,Bimestral,V4,2025-08-08
+633,Língua Portuguesa – Capítulo 4 (2º ano),Capítulo,SPE,2026,2º ano,Língua Portuguesa,Assunto Geral,EM13LGG601,Bimestral,V4,2025-07-26
+634,Língua Portuguesa – Capítulo 5 (2º ano),Capítulo,SPE,2026,2º ano,Língua Portuguesa,Assunto Geral,EM13LGG601,Bimestral,V4,2025-08-22
+635,Língua Portuguesa – Capítulo 6 (2º ano),Capítulo,SPE,2026,2º ano,Língua Portuguesa,Assunto Geral,EM13LGG601,Bimestral,V4,2025-08-06
+636,Questões Língua Portuguesa – Q1 (2º ano),Questão,SPE,2026,2º ano,Língua Portuguesa,Assunto Geral,EM13LGG601,Bimestral,V4,2025-07-05
+637,Questões Língua Portuguesa – Q2 (2º ano),Questão,SPE,2026,2º ano,Língua Portuguesa,Assunto Geral,EM13LGG601,Bimestral,V4,2025-08-24
+638,Questões Língua Portuguesa – Q3 (2º ano),Questão,SPE,2026,2º ano,Língua Portuguesa,Assunto Geral,EM13LGG601,Bimestral,V4,2025-07-30
+639,Artes – Capítulo 1 (2º ano),Capítulo,SPE,2026,2º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-26
+640,Artes – Capítulo 2 (2º ano),Capítulo,SPE,2026,2º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-12
+641,Artes – Capítulo 3 (2º ano),Capítulo,SPE,2026,2º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-11
+642,Artes – Capítulo 4 (2º ano),Capítulo,SPE,2026,2º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-04
+643,Artes – Capítulo 5 (2º ano),Capítulo,SPE,2026,2º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-11
+644,Artes – Capítulo 6 (2º ano),Capítulo,SPE,2026,2º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-24
+645,Questões Artes – Q1 (2º ano),Questão,SPE,2026,2º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-08-23
+646,Questões Artes – Q2 (2º ano),Questão,SPE,2026,2º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-20
+647,Questões Artes – Q3 (2º ano),Questão,SPE,2026,2º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V4,2025-07-31
+648,Coleção SAE Digital 2026 – 9º ano,Coleção,SAE Digital,2026,9º ano,,,,,,2025-07-25
+649,Livro 9º ano – SAE Digital – V3,Material,SAE Digital,2026,9º ano,,,,Bimestral,V3,2025-08-16
+650,História – Capítulo 1 (9º ano),Capítulo,SAE Digital,2026,9º ano,História,Evolução dos Sistemas Internacionais e Instituições Globais,EM13CHS103,Bimestral,V3,2025-08-15
+651,História – Capítulo 2 (9º ano),Capítulo,SAE Digital,2026,9º ano,História,Segunda Guerra Mundial,EM13CHS103,Bimestral,V3,2025-08-26
+652,História – Capítulo 3 (9º ano),Capítulo,SAE Digital,2026,9º ano,História,Cruzadas e Relações Internacionais,EM13CHS103,Bimestral,V3,2025-07-17
+653,História – Capítulo 4 (9º ano),Capítulo,SAE Digital,2026,9º ano,História,Expansão dos francos e Império Carolíngio,EM13CHS103,Bimestral,V3,2025-07-26
+654,História – Capítulo 5 (9º ano),Capítulo,SAE Digital,2026,9º ano,História,Revolução Científica,EM13CHS103,Bimestral,V3,2025-08-06
+655,História – Capítulo 6 (9º ano),Capítulo,SAE Digital,2026,9º ano,História,Primeira Guerra Mundial,EM13CHS103,Bimestral,V3,2025-07-03
+656,Questões História – Q1 (9º ano),Questão,SAE Digital,2026,9º ano,História,Civilizações da Antiguidade Clássica,EM13CHS103,Bimestral,V3,2025-08-21
+657,Questões História – Q2 (9º ano),Questão,SAE Digital,2026,9º ano,História,Cruzadas e Relações Internacionais,EM13CHS103,Bimestral,V3,2025-08-06
+658,Questões História – Q3 (9º ano),Questão,SAE Digital,2026,9º ano,História,Idade dos Metais,EM13CHS103,Bimestral,V3,2025-08-23
+659,Filosofia – Capítulo 1 (9º ano),Capítulo,SAE Digital,2026,9º ano,Filosofia,Conceito de Filosofia,EM13CHS101,Bimestral,V3,2025-08-18
+660,Filosofia – Capítulo 2 (9º ano),Capítulo,SAE Digital,2026,9º ano,Filosofia,Empirismo,EM13CHS101,Bimestral,V3,2025-07-17
+661,Filosofia – Capítulo 3 (9º ano),Capítulo,SAE Digital,2026,9º ano,Filosofia,Karl Marx,EM13CHS101,Bimestral,V3,2025-07-19
+662,Filosofia – Capítulo 4 (9º ano),Capítulo,SAE Digital,2026,9º ano,Filosofia,Escolas da era helenística,EM13CHS101,Bimestral,V3,2025-07-08
+663,Filosofia – Capítulo 5 (9º ano),Capítulo,SAE Digital,2026,9º ano,Filosofia,Hume,EM13CHS101,Bimestral,V3,2025-08-16
+664,Filosofia – Capítulo 6 (9º ano),Capítulo,SAE Digital,2026,9º ano,Filosofia,Metafísica,EM13CHS101,Bimestral,V3,2025-07-20
+665,Questões Filosofia – Q1 (9º ano),Questão,SAE Digital,2026,9º ano,Filosofia,Filosofia contemporânea,EM13CHS101,Bimestral,V3,2025-08-02
+666,Questões Filosofia – Q2 (9º ano),Questão,SAE Digital,2026,9º ano,Filosofia,Outros Tópicos Relacionados à Filosofia - Cultura e sociedade,EM13CHS101,Bimestral,V3,2025-07-05
+667,Questões Filosofia – Q3 (9º ano),Questão,SAE Digital,2026,9º ano,Filosofia,Origens da modernidade,EM13CHS101,Bimestral,V3,2025-07-16
+668,Coleção COC 2025 – 3º ano,Coleção,COC,2025,3º ano,,,,,,2025-08-25
+669,Livro 3º ano – COC – V3,Material,COC,2025,3º ano,,,,Bimestral,V3,2025-07-14
+670,Língua Inglesa – Capítulo 1 (3º ano),Capítulo,COC,2025,3º ano,Língua Inglesa,Assunto Geral,EM13LGG102,Bimestral,V3,2025-08-30
+671,Língua Inglesa – Capítulo 2 (3º ano),Capítulo,COC,2025,3º ano,Língua Inglesa,Assunto Geral,EM13LGG102,Bimestral,V3,2025-08-10
+672,Língua Inglesa – Capítulo 3 (3º ano),Capítulo,COC,2025,3º ano,Língua Inglesa,Assunto Geral,EM13LGG102,Bimestral,V3,2025-07-28
+673,Língua Inglesa – Capítulo 4 (3º ano),Capítulo,COC,2025,3º ano,Língua Inglesa,Assunto Geral,EM13LGG102,Bimestral,V3,2025-07-09
+674,Língua Inglesa – Capítulo 5 (3º ano),Capítulo,COC,2025,3º ano,Língua Inglesa,Assunto Geral,EM13LGG102,Bimestral,V3,2025-08-05
+675,Língua Inglesa – Capítulo 6 (3º ano),Capítulo,COC,2025,3º ano,Língua Inglesa,Assunto Geral,EM13LGG102,Bimestral,V3,2025-08-23
+676,Questões Língua Inglesa – Q1 (3º ano),Questão,COC,2025,3º ano,Língua Inglesa,Assunto Geral,EM13LGG102,Bimestral,V3,2025-07-23
+677,Questões Língua Inglesa – Q2 (3º ano),Questão,COC,2025,3º ano,Língua Inglesa,Assunto Geral,EM13LGG102,Bimestral,V3,2025-07-28
+678,Questões Língua Inglesa – Q3 (3º ano),Questão,COC,2025,3º ano,Língua Inglesa,Assunto Geral,EM13LGG102,Bimestral,V3,2025-08-03
+679,Física – Capítulo 1 (3º ano),Capítulo,COC,2025,3º ano,Física,Ondas: Interferência,EM13CNT203,Bimestral,V3,2025-07-30
+680,Física – Capítulo 2 (3º ano),Capítulo,COC,2025,3º ano,Física,Resistividade Elétrica,EM13CNT203,Bimestral,V3,2025-08-21
+681,Física – Capítulo 3 (3º ano),Capítulo,COC,2025,3º ano,Física,Movimento Uniforme,EM13CNT203,Bimestral,V3,2025-07-24
+682,Física – Capítulo 4 (3º ano),Capítulo,COC,2025,3º ano,Física,Elementos Geométricos das Lentes,EM13CNT203,Bimestral,V3,2025-07-13
+683,Física – Capítulo 5 (3º ano),Capítulo,COC,2025,3º ano,Física,Resistência Elétrica,EM13CNT203,Bimestral,V3,2025-08-22
+684,Física – Capítulo 6 (3º ano),Capítulo,COC,2025,3º ano,Física,Resistividade Elétrica,EM13CNT203,Bimestral,V3,2025-08-11
+685,Questões Física – Q1 (3º ano),Questão,COC,2025,3º ano,Física,Óptica da visão: Anatomia do Olho Humano,EM13CNT203,Bimestral,V3,2025-08-28
+686,Questões Física – Q2 (3º ano),Questão,COC,2025,3º ano,Física,Aplicações do Som,EM13CNT203,Bimestral,V3,2025-07-05
+687,Questões Física – Q3 (3º ano),Questão,COC,2025,3º ano,Física,Eficiência Energética,EM13CNT203,Bimestral,V3,2025-07-24
+688,História – Capítulo 1 (3º ano),Capítulo,COC,2025,3º ano,História,Conflitos e Guerras Civis,EM13CHS502,Bimestral,V3,2025-08-21
+689,História – Capítulo 2 (3º ano),Capítulo,COC,2025,3º ano,História,Brasil Colonial,EM13CHS502,Bimestral,V3,2025-08-07
+690,História – Capítulo 3 (3º ano),Capítulo,COC,2025,3º ano,História,Invasões e migrantes,EM13CHS502,Bimestral,V3,2025-07-16
+691,História – Capítulo 4 (3º ano),Capítulo,COC,2025,3º ano,História,Transição do Feudalismo para o Capitalismo,EM13CHS502,Bimestral,V3,2025-08-10
+692,História – Capítulo 5 (3º ano),Capítulo,COC,2025,3º ano,História,Declínio e Transição,EM13CHS502,Bimestral,V3,2025-08-13
+693,História – Capítulo 6 (3º ano),Capítulo,COC,2025,3º ano,História,A pré-história americana,EM13CHS502,Bimestral,V3,2025-08-19
+694,Questões História – Q1 (3º ano),Questão,COC,2025,3º ano,História,Pré-história do Brasil: cultura material e arte rupestre,EM13CHS502,Bimestral,V3,2025-07-01
+695,Questões História – Q2 (3º ano),Questão,COC,2025,3º ano,História,Formação dos Estados Nacionais,EM13CHS502,Bimestral,V3,2025-08-21
+696,Questões História – Q3 (3º ano),Questão,COC,2025,3º ano,História,História Pública,EM13CHS502,Bimestral,V3,2025-08-20
+697,Coleção COC 2025 – 5º ano,Coleção,COC,2025,5º ano,,,,,,2025-07-17
+698,Livro 5º ano – COC – V3,Material,COC,2025,5º ano,,,,Bimestral,V3,2025-08-13
+699,Língua Portuguesa – Capítulo 1 (5º ano),Capítulo,COC,2025,5º ano,Língua Portuguesa,Assunto Geral,EM13LP52,Bimestral,V3,2025-08-08
+700,Língua Portuguesa – Capítulo 2 (5º ano),Capítulo,COC,2025,5º ano,Língua Portuguesa,Assunto Geral,EM13LP52,Bimestral,V3,2025-07-14
+701,Língua Portuguesa – Capítulo 3 (5º ano),Capítulo,COC,2025,5º ano,Língua Portuguesa,Assunto Geral,EM13LP52,Bimestral,V3,2025-07-06
+702,Língua Portuguesa – Capítulo 4 (5º ano),Capítulo,COC,2025,5º ano,Língua Portuguesa,Assunto Geral,EM13LP52,Bimestral,V3,2025-07-04
+703,Língua Portuguesa – Capítulo 5 (5º ano),Capítulo,COC,2025,5º ano,Língua Portuguesa,Assunto Geral,EM13LP52,Bimestral,V3,2025-07-22
+704,Língua Portuguesa – Capítulo 6 (5º ano),Capítulo,COC,2025,5º ano,Língua Portuguesa,Assunto Geral,EM13LP52,Bimestral,V3,2025-07-19
+705,Questões Língua Portuguesa – Q1 (5º ano),Questão,COC,2025,5º ano,Língua Portuguesa,Assunto Geral,EM13LP52,Bimestral,V3,2025-08-24
+706,Questões Língua Portuguesa – Q2 (5º ano),Questão,COC,2025,5º ano,Língua Portuguesa,Assunto Geral,EM13LP52,Bimestral,V3,2025-08-02
+707,Questões Língua Portuguesa – Q3 (5º ano),Questão,COC,2025,5º ano,Língua Portuguesa,Assunto Geral,EM13LP52,Bimestral,V3,2025-07-15
+708,História – Capítulo 1 (5º ano),Capítulo,COC,2025,5º ano,História,Era Vargas,EM13CHS101,Bimestral,V3,2025-08-16
+709,História – Capítulo 2 (5º ano),Capítulo,COC,2025,5º ano,História,Colonialismo na Ásia,EM13CHS101,Bimestral,V3,2025-07-31
+710,História – Capítulo 3 (5º ano),Capítulo,COC,2025,5º ano,História,Neocolonialismo,EM13CHS101,Bimestral,V3,2025-08-27
+711,História – Capítulo 4 (5º ano),Capítulo,COC,2025,5º ano,História,Mercantilismo,EM13CHS101,Bimestral,V3,2025-07-21
+712,História – Capítulo 5 (5º ano),Capítulo,COC,2025,5º ano,História,Populismo no Brasil,EM13CHS101,Bimestral,V3,2025-08-08
+713,História – Capítulo 6 (5º ano),Capítulo,COC,2025,5º ano,História,Império Bizantino,EM13CHS101,Bimestral,V3,2025-07-10
+714,Questões História – Q1 (5º ano),Questão,COC,2025,5º ano,História,Revoluções Burguesas: Independência dos Estados Unidos,EM13CHS101,Bimestral,V3,2025-07-18
+715,Questões História – Q2 (5º ano),Questão,COC,2025,5º ano,História,Era Vargas,EM13CHS101,Bimestral,V3,2025-08-16
+716,Questões História – Q3 (5º ano),Questão,COC,2025,5º ano,História,Pré-história do Brasil: primeiros habitantes,EM13CHS101,Bimestral,V3,2025-08-02
+717,Coleção SPE 2026 – 6º ano,Coleção,SPE,2026,6º ano,,,,,,2025-07-18
+718,Livro 6º ano – SPE – V4,Material,SPE,2026,6º ano,,,,Bimestral,V4,2025-07-18
+719,Ciências – Capítulo 1 (6º ano),Capítulo,SPE,2026,6º ano,Ciências,Ciências - Outros,EF09CI15,Bimestral,V4,2025-07-08
+720,Ciências – Capítulo 2 (6º ano),Capítulo,SPE,2026,6º ano,Ciências,Ciências - Outros,EF09CI15,Bimestral,V4,2025-08-17
+721,Ciências – Capítulo 3 (6º ano),Capítulo,SPE,2026,6º ano,Ciências,Ciências - Outros,EF09CI15,Bimestral,V4,2025-08-19
+722,Ciências – Capítulo 4 (6º ano),Capítulo,SPE,2026,6º ano,Ciências,Ciências - Outros,EF09CI15,Bimestral,V4,2025-08-21
+723,Ciências – Capítulo 5 (6º ano),Capítulo,SPE,2026,6º ano,Ciências,Ciências - Outros,EF09CI15,Bimestral,V4,2025-08-21
+724,Ciências – Capítulo 6 (6º ano),Capítulo,SPE,2026,6º ano,Ciências,Ciências - Outros,EF09CI15,Bimestral,V4,2025-08-10
+725,Questões Ciências – Q1 (6º ano),Questão,SPE,2026,6º ano,Ciências,Ciências - Outros,EF09CI15,Bimestral,V4,2025-07-14
+726,Questões Ciências – Q2 (6º ano),Questão,SPE,2026,6º ano,Ciências,Ciências - Outros,EF09CI15,Bimestral,V4,2025-08-10
+727,Questões Ciências – Q3 (6º ano),Questão,SPE,2026,6º ano,Ciências,Ciências - Outros,EF09CI15,Bimestral,V4,2025-08-22
+728,Geografia – Capítulo 1 (6º ano),Capítulo,SPE,2026,6º ano,Geografia,Geografia dos Conflitos,EF09GE17,Bimestral,V4,2025-07-06
+729,Geografia – Capítulo 2 (6º ano),Capítulo,SPE,2026,6º ano,Geografia,Geografia do Consumo,EF09GE17,Bimestral,V4,2025-08-20
+730,Geografia – Capítulo 3 (6º ano),Capítulo,SPE,2026,6º ano,Geografia,Ética e Responsabilidade na Cartografia,EF09GE17,Bimestral,V4,2025-08-25
+731,Geografia – Capítulo 4 (6º ano),Capítulo,SPE,2026,6º ano,Geografia,Movimentos Sociais,EF09GE17,Bimestral,V4,2025-07-13
+732,Geografia – Capítulo 5 (6º ano),Capítulo,SPE,2026,6º ano,Geografia,Regiões e regionalização: conceitos e critérios,EF09GE17,Bimestral,V4,2025-08-15
+733,Geografia – Capítulo 6 (6º ano),Capítulo,SPE,2026,6º ano,Geografia,Regiões e regionalização: conceitos e critérios,EF09GE17,Bimestral,V4,2025-07-07
+734,Questões Geografia – Q1 (6º ano),Questão,SPE,2026,6º ano,Geografia,Ruralidade,EF09GE17,Bimestral,V4,2025-07-17
+735,Questões Geografia – Q2 (6º ano),Questão,SPE,2026,6º ano,Geografia,População e Demografia,EF09GE17,Bimestral,V4,2025-08-29
+736,Questões Geografia – Q3 (6º ano),Questão,SPE,2026,6º ano,Geografia,Visualização de Dados Espaciais,EF09GE17,Bimestral,V4,2025-08-13
+737,Coleção Geekie 2026 – G4,Coleção,Geekie,2026,G4,,,,,,2025-08-16
+738,Livro G4 – Geekie – V4,Material,Geekie,2026,G4,,,,Bimestral,V4,2025-07-19
+739,Sociologia – Capítulo 1 (G4),Capítulo,Geekie,2026,G4,Sociologia,Indivíduo e sociedade,EM13CHS504,Bimestral,V4,2025-07-05
+740,Sociologia – Capítulo 2 (G4),Capítulo,Geekie,2026,G4,Sociologia,Violência,EM13CHS504,Bimestral,V4,2025-07-29
+741,Sociologia – Capítulo 3 (G4),Capítulo,Geekie,2026,G4,Sociologia,Outros Tópicos Relacionados à Sociologia - Trabalho,EM13CHS504,Bimestral,V4,2025-08-02
+742,Sociologia – Capítulo 4 (G4),Capítulo,Geekie,2026,G4,Sociologia,Indivíduo e sociedade,EM13CHS504,Bimestral,V4,2025-07-04
+743,Sociologia – Capítulo 5 (G4),Capítulo,Geekie,2026,G4,Sociologia,Outros Tópicos Relacionados à Sociologia - Tecnologia,EM13CHS504,Bimestral,V4,2025-08-29
+744,Sociologia – Capítulo 6 (G4),Capítulo,Geekie,2026,G4,Sociologia,Estrutura social,EM13CHS504,Bimestral,V4,2025-08-02
+745,Questões Sociologia – Q1 (G4),Questão,Geekie,2026,G4,Sociologia,Linguagem,EM13CHS504,Bimestral,V4,2025-08-22
+746,Questões Sociologia – Q2 (G4),Questão,Geekie,2026,G4,Sociologia,Meio ambiente e sustentabilidade - Desenvolvimento sustentável,EM13CHS504,Bimestral,V4,2025-07-11
+747,Questões Sociologia – Q3 (G4),Questão,Geekie,2026,G4,Sociologia,Conflitos urbanos,EM13CHS504,Bimestral,V4,2025-08-29
+748,História – Capítulo 1 (G4),Capítulo,Geekie,2026,G4,História,América Pré-Colombiana,EM13CHS101,Bimestral,V4,2025-07-16
+749,História – Capítulo 2 (G4),Capítulo,Geekie,2026,G4,História,Idade dos Metais,EM13CHS101,Bimestral,V4,2025-08-20
+750,História – Capítulo 3 (G4),Capítulo,Geekie,2026,G4,História,Expansão Marítima e Comercial,EM13CHS101,Bimestral,V4,2025-08-10
+751,História – Capítulo 4 (G4),Capítulo,Geekie,2026,G4,História,Desenvolvimento tecnológico e científico,EM13CHS101,Bimestral,V4,2025-07-02
+752,História – Capítulo 5 (G4),Capítulo,Geekie,2026,G4,História,Redemocratização brasileira,EM13CHS101,Bimestral,V4,2025-07-10
+753,História – Capítulo 6 (G4),Capítulo,Geekie,2026,G4,História,Ditadura Civil-Militar no Brasil,EM13CHS101,Bimestral,V4,2025-08-06
+754,Questões História – Q1 (G4),Questão,Geekie,2026,G4,História,Globalização e seus desafios,EM13CHS101,Bimestral,V4,2025-07-04
+755,Questões História – Q2 (G4),Questão,Geekie,2026,G4,História,Cruzadas e Relações Internacionais,EM13CHS101,Bimestral,V4,2025-08-19
+756,Questões História – Q3 (G4),Questão,Geekie,2026,G4,História,Brasil Pré-Colonial,EM13CHS101,Bimestral,V4,2025-08-29
+757,Coleção SPE 2026 – G2,Coleção,SPE,2026,G2,,,,,,2025-07-19
+758,Livro G2 – SPE – V4,Material,SPE,2026,G2,,,,Bimestral,V4,2025-07-20
+759,Língua Inglesa – Capítulo 1 (G2),Capítulo,SPE,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-07-26
+760,Língua Inglesa – Capítulo 2 (G2),Capítulo,SPE,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-07-21
+761,Língua Inglesa – Capítulo 3 (G2),Capítulo,SPE,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-07-30
+762,Língua Inglesa – Capítulo 4 (G2),Capítulo,SPE,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-02
+763,Língua Inglesa – Capítulo 5 (G2),Capítulo,SPE,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-07-26
+764,Língua Inglesa – Capítulo 6 (G2),Capítulo,SPE,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-03
+765,Questões Língua Inglesa – Q1 (G2),Questão,SPE,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-08-19
+766,Questões Língua Inglesa – Q2 (G2),Questão,SPE,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-07-03
+767,Questões Língua Inglesa – Q3 (G2),Questão,SPE,2026,G2,Língua Inglesa,Assunto Geral,EM13LGG304,Bimestral,V4,2025-07-24
+768,Biologia – Capítulo 1 (G2),Capítulo,SPE,2026,G2,Biologia,Relações ecológicas,EM13CNT201,Bimestral,V4,2025-07-14
+769,Biologia – Capítulo 2 (G2),Capítulo,SPE,2026,G2,Biologia,Tipos de seleção natural,EM13CNT201,Bimestral,V4,2025-08-09
+770,Biologia – Capítulo 3 (G2),Capítulo,SPE,2026,G2,Biologia,Introdução à embriologia,EM13CNT201,Bimestral,V4,2025-08-07
+771,Biologia – Capítulo 4 (G2),Capítulo,SPE,2026,G2,Biologia,Filo Arthropoda,EM13CNT201,Bimestral,V4,2025-08-20
+772,Biologia – Capítulo 5 (G2),Capítulo,SPE,2026,G2,Biologia,"Herança autossômica monogênica, penetrância e expressividade",EM13CNT201,Bimestral,V4,2025-08-19
+773,Biologia – Capítulo 6 (G2),Capítulo,SPE,2026,G2,Biologia,Cadeias e teias alimentares,EM13CNT201,Bimestral,V4,2025-08-02
+774,Questões Biologia – Q1 (G2),Questão,SPE,2026,G2,Biologia,Citologia e microscopia,EM13CNT201,Bimestral,V4,2025-07-14
+775,Questões Biologia – Q2 (G2),Questão,SPE,2026,G2,Biologia,Noções de filogenética,EM13CNT201,Bimestral,V4,2025-07-19
+776,Questões Biologia – Q3 (G2),Questão,SPE,2026,G2,Biologia,Vigilância sanitária e epidemiológica,EM13CNT201,Bimestral,V4,2025-08-02
+777,Coleção COC 2025 – 6º ano,Coleção,COC,2025,6º ano,,,,,,2025-07-14
+778,Livro 6º ano – COC – V2,Material,COC,2025,6º ano,,,,Bimestral,V2,2025-08-07
+779,Ciências – Capítulo 1 (6º ano),Capítulo,COC,2025,6º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V2,2025-07-11
+780,Ciências – Capítulo 2 (6º ano),Capítulo,COC,2025,6º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V2,2025-08-20
+781,Ciências – Capítulo 3 (6º ano),Capítulo,COC,2025,6º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V2,2025-07-26
+782,Ciências – Capítulo 4 (6º ano),Capítulo,COC,2025,6º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V2,2025-08-16
+783,Ciências – Capítulo 5 (6º ano),Capítulo,COC,2025,6º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V2,2025-08-10
+784,Ciências – Capítulo 6 (6º ano),Capítulo,COC,2025,6º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V2,2025-08-19
+785,Questões Ciências – Q1 (6º ano),Questão,COC,2025,6º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V2,2025-07-21
+786,Questões Ciências – Q2 (6º ano),Questão,COC,2025,6º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V2,2025-08-02
+787,Questões Ciências – Q3 (6º ano),Questão,COC,2025,6º ano,Ciências,Ciências - Outros,EF09CI04,Bimestral,V2,2025-07-20
+788,Geografia – Capítulo 1 (6º ano),Capítulo,COC,2025,6º ano,Geografia,Desenvolvimento Econômico,EM13CHS106,Bimestral,V2,2025-08-07
+789,Geografia – Capítulo 2 (6º ano),Capítulo,COC,2025,6º ano,Geografia,Geografia Social - Intolerância,EM13CHS106,Bimestral,V2,2025-08-16
+790,Geografia – Capítulo 3 (6º ano),Capítulo,COC,2025,6º ano,Geografia,Integração Regional,EM13CHS106,Bimestral,V2,2025-07-11
+791,Geografia – Capítulo 4 (6º ano),Capítulo,COC,2025,6º ano,Geografia,Geopolítica e relações internacionais,EM13CHS106,Bimestral,V2,2025-08-24
+792,Geografia – Capítulo 5 (6º ano),Capítulo,COC,2025,6º ano,Geografia,Fenômenos Astronômicos,EM13CHS106,Bimestral,V2,2025-07-23
+793,Geografia – Capítulo 6 (6º ano),Capítulo,COC,2025,6º ano,Geografia,Geografia do Consumo,EM13CHS106,Bimestral,V2,2025-07-15
+794,Questões Geografia – Q1 (6º ano),Questão,COC,2025,6º ano,Geografia,Características regionais,EM13CHS106,Bimestral,V2,2025-07-18
+795,Questões Geografia – Q2 (6º ano),Questão,COC,2025,6º ano,Geografia,População e Demografia,EM13CHS106,Bimestral,V2,2025-07-12
+796,Questões Geografia – Q3 (6º ano),Questão,COC,2025,6º ano,Geografia,Oceanografia,EM13CHS106,Bimestral,V2,2025-08-22
+797,Língua Inglesa – Capítulo 1 (6º ano),Capítulo,COC,2025,6º ano,Língua Inglesa,Assunto Geral,EM13LGG403,Bimestral,V2,2025-07-03
+798,Língua Inglesa – Capítulo 2 (6º ano),Capítulo,COC,2025,6º ano,Língua Inglesa,Assunto Geral,EM13LGG403,Bimestral,V2,2025-08-11
+799,Língua Inglesa – Capítulo 3 (6º ano),Capítulo,COC,2025,6º ano,Língua Inglesa,Assunto Geral,EM13LGG403,Bimestral,V2,2025-08-09
+800,Língua Inglesa – Capítulo 4 (6º ano),Capítulo,COC,2025,6º ano,Língua Inglesa,Assunto Geral,EM13LGG403,Bimestral,V2,2025-08-05
+801,Língua Inglesa – Capítulo 5 (6º ano),Capítulo,COC,2025,6º ano,Língua Inglesa,Assunto Geral,EM13LGG403,Bimestral,V2,2025-08-08
+802,Língua Inglesa – Capítulo 6 (6º ano),Capítulo,COC,2025,6º ano,Língua Inglesa,Assunto Geral,EM13LGG403,Bimestral,V2,2025-08-12
+803,Questões Língua Inglesa – Q1 (6º ano),Questão,COC,2025,6º ano,Língua Inglesa,Assunto Geral,EM13LGG403,Bimestral,V2,2025-07-19
+804,Questões Língua Inglesa – Q2 (6º ano),Questão,COC,2025,6º ano,Língua Inglesa,Assunto Geral,EM13LGG403,Bimestral,V2,2025-08-15
+805,Questões Língua Inglesa – Q3 (6º ano),Questão,COC,2025,6º ano,Língua Inglesa,Assunto Geral,EM13LGG403,Bimestral,V2,2025-07-26
+806,Coleção COC 2025 – 8º ano,Coleção,COC,2025,8º ano,,,,,,2025-08-26
+807,Livro 8º ano – COC – V2,Material,COC,2025,8º ano,,,,Bimestral,V2,2025-07-27
+808,Geografia – Capítulo 1 (8º ano),Capítulo,COC,2025,8º ano,Geografia,Climatologia Aplicada,EM13CHS106,Bimestral,V2,2025-08-28
+809,Geografia – Capítulo 2 (8º ano),Capítulo,COC,2025,8º ano,Geografia,Gastronomia e Culinária,EM13CHS106,Bimestral,V2,2025-08-13
+810,Geografia – Capítulo 3 (8º ano),Capítulo,COC,2025,8º ano,Geografia,Território e Lugar: Conceitos e Características,EM13CHS106,Bimestral,V2,2025-08-05
+811,Geografia – Capítulo 4 (8º ano),Capítulo,COC,2025,8º ano,Geografia,Gastronomia e Culinária,EM13CHS106,Bimestral,V2,2025-08-01
+812,Geografia – Capítulo 5 (8º ano),Capítulo,COC,2025,8º ano,Geografia,Concepções de Espaço e Lugar na Geografia,EM13CHS106,Bimestral,V2,2025-07-11
+813,Geografia – Capítulo 6 (8º ano),Capítulo,COC,2025,8º ano,Geografia,Ruralidade,EM13CHS106,Bimestral,V2,2025-07-26
+814,Questões Geografia – Q1 (8º ano),Questão,COC,2025,8º ano,Geografia,Território e Lugar: Conceitos e Características,EM13CHS106,Bimestral,V2,2025-08-22
+815,Questões Geografia – Q2 (8º ano),Questão,COC,2025,8º ano,Geografia,Geografia Eleitoral,EM13CHS106,Bimestral,V2,2025-08-19
+816,Questões Geografia – Q3 (8º ano),Questão,COC,2025,8º ano,Geografia,Conceitos e Objetivos da Geografia,EM13CHS106,Bimestral,V2,2025-07-14
+817,Biologia – Capítulo 1 (8º ano),Capítulo,COC,2025,8º ano,Biologia,Biologia Celular e Molecular - Características morfológicas e fisiológicas,EM13CNT207,Bimestral,V2,2025-08-21
+818,Biologia – Capítulo 2 (8º ano),Capítulo,COC,2025,8º ano,Biologia,Mollusca (Moluscos),EM13CNT207,Bimestral,V2,2025-07-04
+819,Biologia – Capítulo 3 (8º ano),Capítulo,COC,2025,8º ano,Biologia,Gastrulação,EM13CNT207,Bimestral,V2,2025-07-25
+820,Biologia – Capítulo 4 (8º ano),Capítulo,COC,2025,8º ano,Biologia,Tecido conjuntivo propriamente dito,EM13CNT207,Bimestral,V2,2025-08-25
+821,Biologia – Capítulo 5 (8º ano),Capítulo,COC,2025,8º ano,Biologia,Genética,EM13CNT207,Bimestral,V2,2025-08-18
+822,Biologia – Capítulo 6 (8º ano),Capítulo,COC,2025,8º ano,Biologia,Controle hormonal e distúrbios da digestão,EM13CNT207,Bimestral,V2,2025-07-09
+823,Questões Biologia – Q1 (8º ano),Questão,COC,2025,8º ano,Biologia,Filo Platyhelmintes (Platelmintos),EM13CNT207,Bimestral,V2,2025-08-29
+824,Questões Biologia – Q2 (8º ano),Questão,COC,2025,8º ano,Biologia,Sistema excretório,EM13CNT207,Bimestral,V2,2025-07-02
+825,Questões Biologia – Q3 (8º ano),Questão,COC,2025,8º ano,Biologia,Evolução humana,EM13CNT207,Bimestral,V2,2025-07-16
+826,Coleção SAS 2026 – 1ª série EM,Coleção,SAS,2026,1ª série EM,,,,,,2025-08-15
+827,Livro 1ª série EM – SAS – V2,Material,SAS,2026,1ª série EM,,,,Bimestral,V2,2025-07-16
+828,Física – Capítulo 1 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Física,Transformadores,EM13CNT106,Bimestral,V2,2025-07-21
+829,Física – Capítulo 2 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Física,Teoria do Magnetismo,EM13CNT106,Bimestral,V2,2025-07-03
+830,Física – Capítulo 3 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Física,Força magnética,EM13CNT106,Bimestral,V2,2025-07-19
+831,Física – Capítulo 4 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Física,Modos de Vibração,EM13CNT106,Bimestral,V2,2025-08-28
+832,Física – Capítulo 5 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Física,Efeito Hall,EM13CNT106,Bimestral,V2,2025-07-08
+833,Física – Capítulo 6 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Física,Movimento Uniformemente Variado,EM13CNT106,Bimestral,V2,2025-07-16
+834,Questões Física – Q1 (1ª série EM),Questão,SAS,2026,1ª série EM,Física,Medição de Resistência e Resistividade,EM13CNT106,Bimestral,V2,2025-08-09
+835,Questões Física – Q2 (1ª série EM),Questão,SAS,2026,1ª série EM,Física,Interações da Radiação com a Matéria,EM13CNT106,Bimestral,V2,2025-08-02
+836,Questões Física – Q3 (1ª série EM),Questão,SAS,2026,1ª série EM,Física,Geradores Elétricos,EM13CNT106,Bimestral,V2,2025-08-13
+837,Química – Capítulo 1 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Química,Processos Industriais Químicos,EM13CNT302,Bimestral,V2,2025-08-14
+838,Química – Capítulo 2 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Química,Cálculos de entalpia,EM13CNT302,Bimestral,V2,2025-07-23
+839,Química – Capítulo 3 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Química,Equação temoquímica,EM13CNT302,Bimestral,V2,2025-08-26
+840,Química – Capítulo 4 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Química,Dispersões,EM13CNT302,Bimestral,V2,2025-08-24
+841,Química – Capítulo 5 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Química,Solubilidade,EM13CNT302,Bimestral,V2,2025-08-03
+842,Química – Capítulo 6 (1ª série EM),Capítulo,SAS,2026,1ª série EM,Química,Ácidos,EM13CNT302,Bimestral,V2,2025-08-17
+843,Questões Química – Q1 (1ª série EM),Questão,SAS,2026,1ª série EM,Química,Cinética das desintegrações radioativas,EM13CNT302,Bimestral,V2,2025-07-14
+844,Questões Química – Q2 (1ª série EM),Questão,SAS,2026,1ª série EM,Química,Equilíbrios Iônicos em soluções aquosas - Equilíbrio iônico,EM13CNT302,Bimestral,V2,2025-08-03
+845,Questões Química – Q3 (1ª série EM),Questão,SAS,2026,1ª série EM,Química,Equação temoquímica,EM13CNT302,Bimestral,V2,2025-07-19
+846,Coleção COC 2025 – 2ª série EM,Coleção,COC,2025,2ª série EM,,,,,,2025-07-24
+847,Livro 2ª série EM – COC – V2,Material,COC,2025,2ª série EM,,,,Bimestral,V2,2025-07-12
+848,Geografia – Capítulo 1 (2ª série EM),Capítulo,COC,2025,2ª série EM,Geografia,Diversidade Cultural,EM13CHS304,Bimestral,V2,2025-07-15
+849,Geografia – Capítulo 2 (2ª série EM),Capítulo,COC,2025,2ª série EM,Geografia,Identidade Cultural,EM13CHS304,Bimestral,V2,2025-08-28
+850,Geografia – Capítulo 3 (2ª série EM),Capítulo,COC,2025,2ª série EM,Geografia,Regiões Metropolitanas,EM13CHS304,Bimestral,V2,2025-07-03
+851,Geografia – Capítulo 4 (2ª série EM),Capítulo,COC,2025,2ª série EM,Geografia,Geografia Física - Desenvolvimento Sustentável,EM13CHS304,Bimestral,V2,2025-07-04
+852,Geografia – Capítulo 5 (2ª série EM),Capítulo,COC,2025,2ª série EM,Geografia,Geografia do Consumo,EM13CHS304,Bimestral,V2,2025-08-05
+853,Geografia – Capítulo 6 (2ª série EM),Capítulo,COC,2025,2ª série EM,Geografia,Regiões Metropolitanas,EM13CHS304,Bimestral,V2,2025-07-07
+854,Questões Geografia – Q1 (2ª série EM),Questão,COC,2025,2ª série EM,Geografia,Geografia Cultural - Patrimônio Cultural,EM13CHS304,Bimestral,V2,2025-08-10
+855,Questões Geografia – Q2 (2ª série EM),Questão,COC,2025,2ª série EM,Geografia,Regiões Metropolitanas,EM13CHS304,Bimestral,V2,2025-08-13
+856,Questões Geografia – Q3 (2ª série EM),Questão,COC,2025,2ª série EM,Geografia,Agropecuária,EM13CHS304,Bimestral,V2,2025-07-19
+857,História – Capítulo 1 (2ª série EM),Capítulo,COC,2025,2ª série EM,História,Primeira Guerra Mundial,EM13CHS204,Bimestral,V2,2025-07-12
+858,História – Capítulo 2 (2ª série EM),Capítulo,COC,2025,2ª série EM,História,Conflitos e Guerras Civis,EM13CHS204,Bimestral,V2,2025-07-23
+859,História – Capítulo 3 (2ª série EM),Capítulo,COC,2025,2ª série EM,História,América Contemporânea,EM13CHS204,Bimestral,V2,2025-07-01
+860,História – Capítulo 4 (2ª série EM),Capítulo,COC,2025,2ª série EM,História,Revoluções Burguesas: Independência dos Estados Unidos,EM13CHS204,Bimestral,V2,2025-08-23
+861,História – Capítulo 5 (2ª série EM),Capítulo,COC,2025,2ª série EM,História,Mesolítico,EM13CHS204,Bimestral,V2,2025-07-03
+862,História – Capítulo 6 (2ª série EM),Capítulo,COC,2025,2ª série EM,História,A crise de 1929 e o desenvolvimento do populismo na América Latina - Populismo na América Latina,EM13CHS204,Bimestral,V2,2025-08-21
+863,Questões História – Q1 (2ª série EM),Questão,COC,2025,2ª série EM,História,Colonialismo na Ásia,EM13CHS204,Bimestral,V2,2025-08-22
+864,Questões História – Q2 (2ª série EM),Questão,COC,2025,2ª série EM,História,Civilizações da Antiguidade Clássica,EM13CHS204,Bimestral,V2,2025-08-30
+865,Questões História – Q3 (2ª série EM),Questão,COC,2025,2ª série EM,História,Expansão Islâmica e Mundo Islâmico,EM13CHS204,Bimestral,V2,2025-07-12
+866,Língua Inglesa – Capítulo 1 (2ª série EM),Capítulo,COC,2025,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG703,Bimestral,V2,2025-07-19
+867,Língua Inglesa – Capítulo 2 (2ª série EM),Capítulo,COC,2025,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG703,Bimestral,V2,2025-08-16
+868,Língua Inglesa – Capítulo 3 (2ª série EM),Capítulo,COC,2025,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG703,Bimestral,V2,2025-08-03
+869,Língua Inglesa – Capítulo 4 (2ª série EM),Capítulo,COC,2025,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG703,Bimestral,V2,2025-07-08
+870,Língua Inglesa – Capítulo 5 (2ª série EM),Capítulo,COC,2025,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG703,Bimestral,V2,2025-07-28
+871,Língua Inglesa – Capítulo 6 (2ª série EM),Capítulo,COC,2025,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG703,Bimestral,V2,2025-08-03
+872,Questões Língua Inglesa – Q1 (2ª série EM),Questão,COC,2025,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG703,Bimestral,V2,2025-08-29
+873,Questões Língua Inglesa – Q2 (2ª série EM),Questão,COC,2025,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG703,Bimestral,V2,2025-07-29
+874,Questões Língua Inglesa – Q3 (2ª série EM),Questão,COC,2025,2ª série EM,Língua Inglesa,Assunto Geral,EM13LGG703,Bimestral,V2,2025-07-21
+875,Coleção COC 2025 – 8º ano,Coleção,COC,2025,8º ano,,,,,,2025-07-07
+876,Livro 8º ano – COC – V1,Material,COC,2025,8º ano,,,,Bimestral,V1,2025-07-25
+877,Química – Capítulo 1 (8º ano),Capítulo,COC,2025,8º ano,Química,Reações endo e exotérmicas,EM13CNT301,Bimestral,V1,2025-07-17
+878,Química – Capítulo 2 (8º ano),Capítulo,COC,2025,8º ano,Química,Densidade e Massa Específica,EM13CNT301,Bimestral,V1,2025-08-13
+879,Química – Capítulo 3 (8º ano),Capítulo,COC,2025,8º ano,Química,Reações de preparação dos alcanos,EM13CNT301,Bimestral,V1,2025-07-27
+880,Química – Capítulo 4 (8º ano),Capítulo,COC,2025,8º ano,Química,Fusão nuclear,EM13CNT301,Bimestral,V1,2025-07-29
+881,Química – Capítulo 5 (8º ano),Capítulo,COC,2025,8º ano,Química,Fatores que afetam a velocidade de reação,EM13CNT301,Bimestral,V1,2025-08-21
+882,Química – Capítulo 6 (8º ano),Capítulo,COC,2025,8º ano,Química,Deslocamento do equilíbrio heterogêneo,EM13CNT301,Bimestral,V1,2025-08-29
+883,Questões Química – Q1 (8º ano),Questão,COC,2025,8º ano,Química,Equação geral dos gases,EM13CNT301,Bimestral,V1,2025-07-03
+884,Questões Química – Q2 (8º ano),Questão,COC,2025,8º ano,Química,Oxidação e Redução,EM13CNT301,Bimestral,V1,2025-08-28
+885,Questões Química – Q3 (8º ano),Questão,COC,2025,8º ano,Química,Conceitos Fundamentais de Química - Estrutura Atômica,EM13CNT301,Bimestral,V1,2025-08-08
+886,Língua Inglesa – Capítulo 1 (8º ano),Capítulo,COC,2025,8º ano,Língua Inglesa,Assunto Geral,EF07LI02,Bimestral,V1,2025-08-18
+887,Língua Inglesa – Capítulo 2 (8º ano),Capítulo,COC,2025,8º ano,Língua Inglesa,Assunto Geral,EF07LI02,Bimestral,V1,2025-07-07
+888,Língua Inglesa – Capítulo 3 (8º ano),Capítulo,COC,2025,8º ano,Língua Inglesa,Assunto Geral,EF07LI02,Bimestral,V1,2025-08-29
+889,Língua Inglesa – Capítulo 4 (8º ano),Capítulo,COC,2025,8º ano,Língua Inglesa,Assunto Geral,EF07LI02,Bimestral,V1,2025-07-30
+890,Língua Inglesa – Capítulo 5 (8º ano),Capítulo,COC,2025,8º ano,Língua Inglesa,Assunto Geral,EF07LI02,Bimestral,V1,2025-08-14
+891,Língua Inglesa – Capítulo 6 (8º ano),Capítulo,COC,2025,8º ano,Língua Inglesa,Assunto Geral,EF07LI02,Bimestral,V1,2025-07-02
+892,Questões Língua Inglesa – Q1 (8º ano),Questão,COC,2025,8º ano,Língua Inglesa,Assunto Geral,EF07LI02,Bimestral,V1,2025-07-14
+893,Questões Língua Inglesa – Q2 (8º ano),Questão,COC,2025,8º ano,Língua Inglesa,Assunto Geral,EF07LI02,Bimestral,V1,2025-07-02
+894,Questões Língua Inglesa – Q3 (8º ano),Questão,COC,2025,8º ano,Língua Inglesa,Assunto Geral,EF07LI02,Bimestral,V1,2025-07-14
+895,Artes – Capítulo 1 (8º ano),Capítulo,COC,2025,8º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-15
+896,Artes – Capítulo 2 (8º ano),Capítulo,COC,2025,8º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-07
+897,Artes – Capítulo 3 (8º ano),Capítulo,COC,2025,8º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-21
+898,Artes – Capítulo 4 (8º ano),Capítulo,COC,2025,8º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-20
+899,Artes – Capítulo 5 (8º ano),Capítulo,COC,2025,8º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-14
+900,Artes – Capítulo 6 (8º ano),Capítulo,COC,2025,8º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-20
+901,Questões Artes – Q1 (8º ano),Questão,COC,2025,8º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-12
+902,Questões Artes – Q2 (8º ano),Questão,COC,2025,8º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-29
+903,Questões Artes – Q3 (8º ano),Questão,COC,2025,8º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-16
+904,Coleção COC 2026 – 6º ano,Coleção,COC,2026,6º ano,,,,,,2025-08-27
+905,Livro 6º ano – COC – V3,Material,COC,2026,6º ano,,,,Bimestral,V3,2025-07-02
+906,Química – Capítulo 1 (6º ano),Capítulo,COC,2026,6º ano,Química,Reações Orgânicas,EM13CNT309,Bimestral,V3,2025-07-05
+907,Química – Capítulo 2 (6º ano),Capítulo,COC,2026,6º ano,Química,Propriedades de Estados da Matéria,EM13CNT309,Bimestral,V3,2025-08-22
+908,Química – Capítulo 3 (6º ano),Capítulo,COC,2026,6º ano,Química,Propriedades Coligativas,EM13CNT309,Bimestral,V3,2025-07-31
+909,Química – Capítulo 4 (6º ano),Capítulo,COC,2026,6º ano,Química,Produto da solubilidade,EM13CNT309,Bimestral,V3,2025-08-04
+910,Química – Capítulo 5 (6º ano),Capítulo,COC,2026,6º ano,Química,Poluição da Água,EM13CNT309,Bimestral,V3,2025-07-11
+911,Química – Capítulo 6 (6º ano),Capítulo,COC,2026,6º ano,Química,Reações dos alcinos,EM13CNT309,Bimestral,V3,2025-08-30
+912,Questões Química – Q1 (6º ano),Questão,COC,2026,6º ano,Química,Polímeros,EM13CNT309,Bimestral,V3,2025-08-14
+913,Questões Química – Q2 (6º ano),Questão,COC,2026,6º ano,Química,Ligações Químicas,EM13CNT309,Bimestral,V3,2025-08-28
+914,Questões Química – Q3 (6º ano),Questão,COC,2026,6º ano,Química,Leis físicas dos gases,EM13CNT309,Bimestral,V3,2025-08-22
+915,Sociologia – Capítulo 1 (6º ano),Capítulo,COC,2026,6º ano,Sociologia,Estrutura social,EM13CHS201,Bimestral,V3,2025-07-27
+916,Sociologia – Capítulo 2 (6º ano),Capítulo,COC,2026,6º ano,Sociologia,Outros Tópicos Relacionados à Sociologia - Cultura e sociedade,EM13CHS201,Bimestral,V3,2025-07-25
+917,Sociologia – Capítulo 3 (6º ano),Capítulo,COC,2026,6º ano,Sociologia,Cultura e ideologia - Cultura e sociedade,EM13CHS201,Bimestral,V3,2025-08-19
+918,Sociologia – Capítulo 4 (6º ano),Capítulo,COC,2026,6º ano,Sociologia,Meios de comunicação,EM13CHS201,Bimestral,V3,2025-07-26
+919,Sociologia – Capítulo 5 (6º ano),Capítulo,COC,2026,6º ano,Sociologia,Violência,EM13CHS201,Bimestral,V3,2025-08-26
+920,Sociologia – Capítulo 6 (6º ano),Capítulo,COC,2026,6º ano,Sociologia,Violência,EM13CHS201,Bimestral,V3,2025-07-31
+921,Questões Sociologia – Q1 (6º ano),Questão,COC,2026,6º ano,Sociologia,Meio ambiente e sustentabilidade - Desenvolvimento sustentável,EM13CHS201,Bimestral,V3,2025-07-18
+922,Questões Sociologia – Q2 (6º ano),Questão,COC,2026,6º ano,Sociologia,Identidade e diversidade,EM13CHS201,Bimestral,V3,2025-07-18
+923,Questões Sociologia – Q3 (6º ano),Questão,COC,2026,6º ano,Sociologia,Conflitos urbanos,EM13CHS201,Bimestral,V3,2025-07-08
+924,Coleção COC 2026 – 3º ano,Coleção,COC,2026,3º ano,,,,,,2025-07-16
+925,Livro 3º ano – COC – V1,Material,COC,2026,3º ano,,,,Bimestral,V1,2025-08-19
+926,Sociologia – Capítulo 1 (3º ano),Capítulo,COC,2026,3º ano,Sociologia,Cultura e ideologia - Cultura e sociedade,EM13CHS201,Bimestral,V1,2025-08-02
+927,Sociologia – Capítulo 2 (3º ano),Capítulo,COC,2026,3º ano,Sociologia,Meio ambiente e sustentabilidade - Desenvolvimento sustentável,EM13CHS201,Bimestral,V1,2025-08-03
+928,Sociologia – Capítulo 3 (3º ano),Capítulo,COC,2026,3º ano,Sociologia,Estratificação social,EM13CHS201,Bimestral,V1,2025-08-02
+929,Sociologia – Capítulo 4 (3º ano),Capítulo,COC,2026,3º ano,Sociologia,Ideologia,EM13CHS201,Bimestral,V1,2025-07-20
+930,Sociologia – Capítulo 5 (3º ano),Capítulo,COC,2026,3º ano,Sociologia,Urbanidade e ruralidade,EM13CHS201,Bimestral,V1,2025-08-21
+931,Sociologia – Capítulo 6 (3º ano),Capítulo,COC,2026,3º ano,Sociologia,Trabalho e sociedade,EM13CHS201,Bimestral,V1,2025-07-24
+932,Questões Sociologia – Q1 (3º ano),Questão,COC,2026,3º ano,Sociologia,Desigualdade,EM13CHS201,Bimestral,V1,2025-08-27
+933,Questões Sociologia – Q2 (3º ano),Questão,COC,2026,3º ano,Sociologia,Dilemas da sociedade contemporânea,EM13CHS201,Bimestral,V1,2025-07-30
+934,Questões Sociologia – Q3 (3º ano),Questão,COC,2026,3º ano,Sociologia,Outros Tópicos Relacionados à Sociologia - Cultura e sociedade,EM13CHS201,Bimestral,V1,2025-08-11
+935,Artes – Capítulo 1 (3º ano),Capítulo,COC,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-28
+936,Artes – Capítulo 2 (3º ano),Capítulo,COC,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-24
+937,Artes – Capítulo 3 (3º ano),Capítulo,COC,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-11
+938,Artes – Capítulo 4 (3º ano),Capítulo,COC,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-29
+939,Artes – Capítulo 5 (3º ano),Capítulo,COC,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-09
+940,Artes – Capítulo 6 (3º ano),Capítulo,COC,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-12
+941,Questões Artes – Q1 (3º ano),Questão,COC,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-22
+942,Questões Artes – Q2 (3º ano),Questão,COC,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-08-11
+943,Questões Artes – Q3 (3º ano),Questão,COC,2026,3º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V1,2025-07-09
+944,Coleção SAS 2025 – 9º ano,Coleção,SAS,2025,9º ano,,,,,,2025-07-14
+945,Livro 9º ano – SAS – V3,Material,SAS,2025,9º ano,,,,Bimestral,V3,2025-08-17
+946,Artes – Capítulo 1 (9º ano),Capítulo,SAS,2025,9º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V3,2025-07-12
+947,Artes – Capítulo 2 (9º ano),Capítulo,SAS,2025,9º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V3,2025-08-28
+948,Artes – Capítulo 3 (9º ano),Capítulo,SAS,2025,9º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V3,2025-08-16
+949,Artes – Capítulo 4 (9º ano),Capítulo,SAS,2025,9º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V3,2025-07-31
+950,Artes – Capítulo 5 (9º ano),Capítulo,SAS,2025,9º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V3,2025-08-06
+951,Artes – Capítulo 6 (9º ano),Capítulo,SAS,2025,9º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V3,2025-07-30
+952,Questões Artes – Q1 (9º ano),Questão,SAS,2025,9º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V3,2025-08-06
+953,Questões Artes – Q2 (9º ano),Questão,SAS,2025,9º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V3,2025-08-30
+954,Questões Artes – Q3 (9º ano),Questão,SAS,2025,9º ano,Artes,Assunto Geral,EF00GEN,Bimestral,V3,2025-07-15
+955,Geografia – Capítulo 1 (9º ano),Capítulo,SAS,2025,9º ano,Geografia,Geografia Religiosa,EF09GE01,Bimestral,V3,2025-07-31
+956,Geografia – Capítulo 2 (9º ano),Capítulo,SAS,2025,9º ano,Geografia,Geografia Física - Desenvolvimento Sustentável,EF09GE01,Bimestral,V3,2025-07-18
+957,Geografia – Capítulo 3 (9º ano),Capítulo,SAS,2025,9º ano,Geografia,Movimentos Celestes,EF09GE01,Bimestral,V3,2025-07-03
+958,Geografia – Capítulo 4 (9º ano),Capítulo,SAS,2025,9º ano,Geografia,Navegação Celeste,EF09GE01,Bimestral,V3,2025-07-26
+959,Geografia – Capítulo 5 (9º ano),Capítulo,SAS,2025,9º ano,Geografia,Territorialidade,EF09GE01,Bimestral,V3,2025-08-21
+960,Geografia – Capítulo 6 (9º ano),Capítulo,SAS,2025,9º ano,Geografia,Sistema Solar,EF09GE01,Bimestral,V3,2025-07-20
+961,Questões Geografia – Q1 (9º ano),Questão,SAS,2025,9º ano,Geografia,Geografia do Trabalho,EF09GE01,Bimestral,V3,2025-07-11
+962,Questões Geografia – Q2 (9º ano),Questão,SAS,2025,9º ano,Geografia,Desigualdade Social,EF09GE01,Bimestral,V3,2025-07-20
+963,Questões Geografia – Q3 (9º ano),Questão,SAS,2025,9º ano,Geografia,Gastronomia e Culinária,EF09GE01,Bimestral,V3,2025-07-09
+964,Coleção COC 2025 – 4º ano,Coleção,COC,2025,4º ano,,,,,,2025-08-29
+965,Livro 4º ano – COC – V2,Material,COC,2025,4º ano,,,,Bimestral,V2,2025-08-04
+966,Geografia – Capítulo 1 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Geoprocessamento,EF08GE24,Bimestral,V2,2025-08-02
+967,Geografia – Capítulo 2 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Comércio Internacional,EF08GE24,Bimestral,V2,2025-08-21
+968,Geografia – Capítulo 3 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Festividades e Celebrações,EF08GE24,Bimestral,V2,2025-07-10
+969,Geografia – Capítulo 4 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Economia Verde,EF08GE24,Bimestral,V2,2025-08-23
+970,Geografia – Capítulo 5 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Política Externa,EF08GE24,Bimestral,V2,2025-08-03
+971,Geografia – Capítulo 6 (4º ano),Capítulo,COC,2025,4º ano,Geografia,Geopolítica Regional,EF08GE24,Bimestral,V2,2025-08-14
+972,Questões Geografia – Q1 (4º ano),Questão,COC,2025,4º ano,Geografia,Gestão de Recursos Naturais,EF08GE24,Bimestral,V2,2025-07-28
+973,Questões Geografia – Q2 (4º ano),Questão,COC,2025,4º ano,Geografia,Migrações Culturais,EF08GE24,Bimestral,V2,2025-07-10
+974,Questões Geografia – Q3 (4º ano),Questão,COC,2025,4º ano,Geografia,Cidadania e Participação,EF08GE24,Bimestral,V2,2025-08-19
+975,Matemática – Capítulo 1 (4º ano),Capítulo,COC,2025,4º ano,Matemática,Cônicas,EM13MAT201,Bimestral,V2,2025-08-14
+976,Matemática – Capítulo 2 (4º ano),Capítulo,COC,2025,4º ano,Matemática,Probabilidade,EM13MAT201,Bimestral,V2,2025-07-16
+977,Matemática – Capítulo 3 (4º ano),Capítulo,COC,2025,4º ano,Matemática,Áreas de superfícies tridimensionais,EM13MAT201,Bimestral,V2,2025-07-22
+978,Matemática – Capítulo 4 (4º ano),Capítulo,COC,2025,4º ano,Matemática,Números Irracionais,EM13MAT201,Bimestral,V2,2025-07-12
+979,Matemática – Capítulo 5 (4º ano),Capítulo,COC,2025,4º ano,Matemática,Números Naturais,EM13MAT201,Bimestral,V2,2025-07-08
+980,Matemática – Capítulo 6 (4º ano),Capítulo,COC,2025,4º ano,Matemática,Unidades de medida,EM13MAT201,Bimestral,V2,2025-08-18
+981,Questões Matemática – Q1 (4º ano),Questão,COC,2025,4º ano,Matemática,Logaritmo,EM13MAT201,Bimestral,V2,2025-07-01
+982,Questões Matemática – Q2 (4º ano),Questão,COC,2025,4º ano,Matemática,Geometria - Trigonometria,EM13MAT201,Bimestral,V2,2025-08-16
+983,Questões Matemática – Q3 (4º ano),Questão,COC,2025,4º ano,Matemática,Razão,EM13MAT201,Bimestral,V2,2025-08-27
+984,Coleção COC 2025 – 2º ano,Coleção,COC,2025,2º ano,,,,,,2025-07-25
+985,Livro 2º ano – COC – V2,Material,COC,2025,2º ano,,,,Bimestral,V2,2025-08-14
+986,Ciências – Capítulo 1 (2º ano),Capítulo,COC,2025,2º ano,Ciências,Ciências - Outros,EF09CI09,Bimestral,V2,2025-08-07
+987,Ciências – Capítulo 2 (2º ano),Capítulo,COC,2025,2º ano,Ciências,Ciências - Outros,EF09CI09,Bimestral,V2,2025-07-11
+988,Ciências – Capítulo 3 (2º ano),Capítulo,COC,2025,2º ano,Ciências,Ciências - Outros,EF09CI09,Bimestral,V2,2025-07-02
+989,Ciências – Capítulo 4 (2º ano),Capítulo,COC,2025,2º ano,Ciências,Ciências - Outros,EF09CI09,Bimestral,V2,2025-07-10
+990,Ciências – Capítulo 5 (2º ano),Capítulo,COC,2025,2º ano,Ciências,Ciências - Outros,EF09CI09,Bimestral,V2,2025-08-22
+991,Ciências – Capítulo 6 (2º ano),Capítulo,COC,2025,2º ano,Ciências,Ciências - Outros,EF09CI09,Bimestral,V2,2025-07-24
+992,Questões Ciências – Q1 (2º ano),Questão,COC,2025,2º ano,Ciências,Ciências - Outros,EF09CI09,Bimestral,V2,2025-08-07
+993,Questões Ciências – Q2 (2º ano),Questão,COC,2025,2º ano,Ciências,Ciências - Outros,EF09CI09,Bimestral,V2,2025-07-09
+994,Questões Ciências – Q3 (2º ano),Questão,COC,2025,2º ano,Ciências,Ciências - Outros,EF09CI09,Bimestral,V2,2025-07-31
+995,História – Capítulo 1 (2º ano),Capítulo,COC,2025,2º ano,História,Neoliberalismo,EM13CHS102,Bimestral,V2,2025-08-07
+996,História – Capítulo 2 (2º ano),Capítulo,COC,2025,2º ano,História,Mundo no século XXI,EM13CHS102,Bimestral,V2,2025-07-17
+997,História – Capítulo 3 (2º ano),Capítulo,COC,2025,2º ano,História,História da África - Questões Contemporâneas,EM13CHS102,Bimestral,V2,2025-07-22
+998,História – Capítulo 4 (2º ano),Capítulo,COC,2025,2º ano,História,Brasil Colonial,EM13CHS102,Bimestral,V2,2025-07-31
+999,História – Capítulo 5 (2º ano),Capítulo,COC,2025,2º ano,História,Pré-história do Brasil: modos de vida e subsistência,EM13CHS102,Bimestral,V2,2025-07-10
+1000,História – Capítulo 6 (2º ano),Capítulo,COC,2025,2º ano,História,Revolução Científica,EM13CHS102,Bimestral,V2,2025-07-13
